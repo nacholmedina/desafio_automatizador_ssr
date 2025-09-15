@@ -1,0 +1,806 @@
+2025-09-14 00:06:18,942 - INFO - Loguer activado.
+2025-09-14 00:06:18,944 - INFO - ====== WebDriver manager ======
+2025-09-14 00:06:21,913 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 00:06:22,017 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 00:06:22,125 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 00:06:22,357 - INFO - WebDriver version 140.0.7339.82 selected
+2025-09-14 00:06:22,361 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/140.0.7339.82/win32/chromedriver-win32.zip
+2025-09-14 00:06:22,362 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/140.0.7339.82/win32/chromedriver-win32.zip
+2025-09-14 00:06:22,514 - INFO - Driver downloading response is 200
+2025-09-14 00:06:22,952 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 00:06:24,258 - INFO - Driver has been saved in cache [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82]
+2025-09-14 00:06:26,206 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-14 00:06:40,848 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-14 00:13:54,108 - INFO - Loguer activado.
+2025-09-14 00:13:54,110 - INFO - ====== WebDriver manager ======
+2025-09-14 00:13:56,920 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 00:13:57,013 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 00:13:57,100 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-14 00:13:58,150 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-14 00:14:12,929 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-14 00:27:55,707 - INFO - Loguer activado.
+2025-09-14 00:27:55,708 - INFO - ====== WebDriver manager ======
+2025-09-14 00:27:58,542 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 00:27:58,812 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 00:27:58,907 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-14 00:27:59,965 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-14 00:28:14,808 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-14 01:11:44,135 - INFO - Loguer activado.
+2025-09-14 01:11:44,142 - INFO - ====== WebDriver manager ======
+2025-09-14 01:11:48,242 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 01:11:48,378 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 01:11:48,473 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-14 01:11:55,432 - INFO - Loguer activado.
+2025-09-14 01:11:55,434 - INFO - ====== WebDriver manager ======
+2025-09-14 01:11:58,236 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 01:11:58,336 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 01:11:58,429 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-14 01:12:00,129 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-14 01:12:15,062 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-14 01:20:15,945 - INFO - Loguer activado.
+2025-09-14 01:20:15,947 - INFO - ====== WebDriver manager ======
+2025-09-14 01:20:19,071 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 01:20:19,200 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 01:20:19,297 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-14 01:20:20,350 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-14 01:20:34,624 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-14 01:34:30,844 - INFO - Loguer activado.
+2025-09-14 01:34:30,846 - INFO - ====== WebDriver manager ======
+2025-09-14 01:34:33,960 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 01:34:34,050 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 01:34:34,137 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-14 01:34:35,187 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-14 01:34:45,488 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-14 01:40:38,452 - INFO - Loguer activado.
+2025-09-14 01:40:38,454 - INFO - ====== WebDriver manager ======
+2025-09-14 01:40:41,303 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 01:40:41,402 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 01:40:41,499 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-14 01:40:42,550 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-14 01:40:57,168 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-14 02:10:45,312 - INFO - Loguer activado.
+2025-09-14 02:10:45,314 - INFO - ====== WebDriver manager ======
+2025-09-14 02:10:48,258 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 02:10:48,360 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 02:10:48,470 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-14 02:10:49,455 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-14 02:11:05,223 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-14 02:15:28,257 - INFO - Loguer activado.
+2025-09-14 02:15:44,990 - INFO - Archivos nuevos detectados para subir: []
+2025-09-14 02:15:44,990 - INFO - No hay nuevos archivos para procesar ni subir.
+2025-09-14 02:27:08,655 - INFO - Loguer activado.
+2025-09-14 02:27:08,656 - INFO - ====== WebDriver manager ======
+2025-09-14 02:27:11,620 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 02:27:11,734 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 02:27:11,838 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-14 02:27:12,833 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-14 02:27:28,309 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-14 02:29:10,333 - INFO - Loguer activado.
+2025-09-14 02:29:10,333 - INFO - Loguer activado.
+2025-09-14 02:29:10,334 - INFO - ====== WebDriver manager ======
+2025-09-14 02:29:10,334 - INFO - ====== WebDriver manager ======
+2025-09-14 02:29:13,086 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 02:29:13,086 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 02:29:13,186 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 02:29:13,186 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 02:29:13,283 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-14 02:29:13,283 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-14 02:29:14,332 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-14 02:29:14,332 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-14 02:29:26,439 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-14 02:29:26,439 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-14 02:29:42,875 - ERROR - Fallo durante descargas: Message: tab crashed
+  (Session info: chrome=140.0.7339.128)
+Stacktrace:
+	GetHandleVerifier [0x0x69d2a3+66419]
+	GetHandleVerifier [0x0x69d2e4+66484]
+	(No symbol) [0x0x474a20]
+	(No symbol) [0x0x4650f9]
+	(No symbol) [0x0x463040]
+	(No symbol) [0x0x463b27]
+	(No symbol) [0x0x47074e]
+	(No symbol) [0x0x4820f5]
+	(No symbol) [0x0x487c96]
+	(No symbol) [0x0x4641a6]
+	(No symbol) [0x0x481988]
+	(No symbol) [0x0x5027b0]
+	(No symbol) [0x0x4e0e16]
+	(No symbol) [0x0x4b25ce]
+	(No symbol) [0x0x4b34a4]
+	GetHandleVerifier [0x0x8e5ee3+2461619]
+	GetHandleVerifier [0x0x8e0f66+2441270]
+	GetHandleVerifier [0x0x6c6242+234258]
+	GetHandleVerifier [0x0x6b6208+168664]
+	GetHandleVerifier [0x0x6bd1ad+197245]
+	GetHandleVerifier [0x0x6a55f8+100040]
+	GetHandleVerifier [0x0x6a5792+100450]
+	GetHandleVerifier [0x0x68f74a+10266]
+	BaseThreadInitThunk [0x0x75f5fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77a182ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77a1827e+238]
+Traceback (most recent call last):
+  File "c:\Users\Nacho\Documents\Challenge_AIT_Solutions\automatizacion-web\main.py", line 36, in main
+    download_autofix_all_brands(driver, DOWNLOAD_DIR)
+  File "c:\Users\Nacho\Documents\Challenge_AIT_Solutions\automatizacion-web\files_downloader.py", line 168, in download_autofix_all_brands
+    driver.js_click(chk, timeout=10)
+  File "c:\Users\Nacho\Documents\Challenge_AIT_Solutions\automatizacion-web\driver.py", line 88, in js_click
+    el = WebDriverWait(self.driver, timeout).until(EC.visibility_of_element_located(loc))
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nacho\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\support\wait.py", line 96, in until
+    value = method(self._driver)
+            ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nacho\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 156, in _predicate
+    return _element_if_visible(driver.find_element(*locator))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nacho\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 748, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nacho\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 354, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Nacho\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: tab crashed
+  (Session info: chrome=140.0.7339.128)
+Stacktrace:
+	GetHandleVerifier [0x0x69d2a3+66419]
+	GetHandleVerifier [0x0x69d2e4+66484]
+	(No symbol) [0x0x474a20]
+	(No symbol) [0x0x4650f9]
+	(No symbol) [0x0x463040]
+	(No symbol) [0x0x463b27]
+	(No symbol) [0x0x47074e]
+	(No symbol) [0x0x4820f5]
+	(No symbol) [0x0x487c96]
+	(No symbol) [0x0x4641a6]
+	(No symbol) [0x0x481988]
+	(No symbol) [0x0x5027b0]
+	(No symbol) [0x0x4e0e16]
+	(No symbol) [0x0x4b25ce]
+	(No symbol) [0x0x4b34a4]
+	GetHandleVerifier [0x0x8e5ee3+2461619]
+	GetHandleVerifier [0x0x8e0f66+2441270]
+	GetHandleVerifier [0x0x6c6242+234258]
+	GetHandleVerifier [0x0x6b6208+168664]
+	GetHandleVerifier [0x0x6bd1ad+197245]
+	GetHandleVerifier [0x0x6a55f8+100040]
+	GetHandleVerifier [0x0x6a5792+100450]
+	GetHandleVerifier [0x0x68f74a+10266]
+	BaseThreadInitThunk [0x0x75f5fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77a182ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77a1827e+238]
+
+2025-09-14 02:29:42,875 - ERROR - Fallo durante descargas: Message: tab crashed
+  (Session info: chrome=140.0.7339.128)
+Stacktrace:
+	GetHandleVerifier [0x0x69d2a3+66419]
+	GetHandleVerifier [0x0x69d2e4+66484]
+	(No symbol) [0x0x474a20]
+	(No symbol) [0x0x4650f9]
+	(No symbol) [0x0x463040]
+	(No symbol) [0x0x463b27]
+	(No symbol) [0x0x47074e]
+	(No symbol) [0x0x4820f5]
+	(No symbol) [0x0x487c96]
+	(No symbol) [0x0x4641a6]
+	(No symbol) [0x0x481988]
+	(No symbol) [0x0x5027b0]
+	(No symbol) [0x0x4e0e16]
+	(No symbol) [0x0x4b25ce]
+	(No symbol) [0x0x4b34a4]
+	GetHandleVerifier [0x0x8e5ee3+2461619]
+	GetHandleVerifier [0x0x8e0f66+2441270]
+	GetHandleVerifier [0x0x6c6242+234258]
+	GetHandleVerifier [0x0x6b6208+168664]
+	GetHandleVerifier [0x0x6bd1ad+197245]
+	GetHandleVerifier [0x0x6a55f8+100040]
+	GetHandleVerifier [0x0x6a5792+100450]
+	GetHandleVerifier [0x0x68f74a+10266]
+	BaseThreadInitThunk [0x0x75f5fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77a182ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77a1827e+238]
+Traceback (most recent call last):
+  File "c:\Users\Nacho\Documents\Challenge_AIT_Solutions\automatizacion-web\main.py", line 36, in main
+    download_autofix_all_brands(driver, DOWNLOAD_DIR)
+  File "c:\Users\Nacho\Documents\Challenge_AIT_Solutions\automatizacion-web\files_downloader.py", line 168, in download_autofix_all_brands
+    driver.js_click(chk, timeout=10)
+  File "c:\Users\Nacho\Documents\Challenge_AIT_Solutions\automatizacion-web\driver.py", line 88, in js_click
+    el = WebDriverWait(self.driver, timeout).until(EC.visibility_of_element_located(loc))
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nacho\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\support\wait.py", line 96, in until
+    value = method(self._driver)
+            ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nacho\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 156, in _predicate
+    return _element_if_visible(driver.find_element(*locator))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nacho\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 748, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nacho\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 354, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Nacho\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: tab crashed
+  (Session info: chrome=140.0.7339.128)
+Stacktrace:
+	GetHandleVerifier [0x0x69d2a3+66419]
+	GetHandleVerifier [0x0x69d2e4+66484]
+	(No symbol) [0x0x474a20]
+	(No symbol) [0x0x4650f9]
+	(No symbol) [0x0x463040]
+	(No symbol) [0x0x463b27]
+	(No symbol) [0x0x47074e]
+	(No symbol) [0x0x4820f5]
+	(No symbol) [0x0x487c96]
+	(No symbol) [0x0x4641a6]
+	(No symbol) [0x0x481988]
+	(No symbol) [0x0x5027b0]
+	(No symbol) [0x0x4e0e16]
+	(No symbol) [0x0x4b25ce]
+	(No symbol) [0x0x4b34a4]
+	GetHandleVerifier [0x0x8e5ee3+2461619]
+	GetHandleVerifier [0x0x8e0f66+2441270]
+	GetHandleVerifier [0x0x6c6242+234258]
+	GetHandleVerifier [0x0x6b6208+168664]
+	GetHandleVerifier [0x0x6bd1ad+197245]
+	GetHandleVerifier [0x0x6a55f8+100040]
+	GetHandleVerifier [0x0x6a5792+100450]
+	GetHandleVerifier [0x0x68f74a+10266]
+	BaseThreadInitThunk [0x0x75f5fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77a182ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77a1827e+238]
+
+2025-09-14 02:29:42,891 - INFO - Cerrando driver
+2025-09-14 02:29:42,891 - INFO - Cerrando driver
+2025-09-14 02:29:45,023 - INFO - Loguer activado.
+2025-09-14 02:29:45,024 - INFO - ====== WebDriver manager ======
+2025-09-14 02:29:48,293 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 02:29:48,393 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 02:29:48,496 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-14 02:29:50,028 - INFO - Loguer activado.
+2025-09-14 02:29:50,028 - INFO - Loguer activado.
+2025-09-14 02:29:50,030 - INFO - ====== WebDriver manager ======
+2025-09-14 02:29:50,030 - INFO - ====== WebDriver manager ======
+2025-09-14 02:29:53,132 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 02:29:53,132 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 02:29:53,224 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 02:29:53,224 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 02:29:53,326 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-14 02:29:53,326 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-14 02:29:54,394 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-14 02:29:54,394 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-14 02:30:06,309 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-14 02:30:06,309 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-14 02:31:48,335 - INFO - Descargas completadas
+2025-09-14 02:31:48,335 - INFO - Descargas completadas
+2025-09-14 02:31:48,335 - INFO - Cerrando driver
+2025-09-14 02:31:48,335 - INFO - Cerrando driver
+2025-09-14 02:32:08,755 - INFO - Archivos procesados en esta ejecución: ['AutoRepuestos Express_20250914.xlsx', 'Mundo RepCar_20250914.xlsx', 'Autofix_20250914.xlsx']
+2025-09-14 02:32:08,755 - INFO - Archivos procesados en esta ejecución: ['AutoRepuestos Express_20250914.xlsx', 'Mundo RepCar_20250914.xlsx', 'Autofix_20250914.xlsx']
+2025-09-14 02:33:15,608 - ERROR - Fallo al subir AutoRepuestos Express_20250914.xlsx: 500: {'error': 'timed out'}
+2025-09-14 02:33:15,608 - ERROR - Fallo al subir AutoRepuestos Express_20250914.xlsx: 500: {'error': 'timed out'}
+2025-09-14 02:34:18,903 - ERROR - Fallo al subir Mundo RepCar_20250914.xlsx: 500: {'error': 'timed out'}
+2025-09-14 02:34:18,903 - ERROR - Fallo al subir Mundo RepCar_20250914.xlsx: 500: {'error': 'timed out'}
+2025-09-14 02:35:28,065 - ERROR - Fallo al subir Autofix_20250914.xlsx: 500: {'error': 'timed out'}
+2025-09-14 02:35:28,065 - ERROR - Fallo al subir Autofix_20250914.xlsx: 500: {'error': 'timed out'}
+2025-09-14 02:37:49,973 - INFO - Loguer activado.
+2025-09-14 02:37:49,974 - INFO - ====== WebDriver manager ======
+2025-09-14 02:37:52,903 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 02:37:53,000 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 02:37:53,105 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-14 02:37:54,592 - INFO - Loguer activado.
+2025-09-14 02:37:54,592 - INFO - Loguer activado.
+2025-09-14 02:37:54,594 - INFO - ====== WebDriver manager ======
+2025-09-14 02:37:54,594 - INFO - ====== WebDriver manager ======
+2025-09-14 02:37:57,441 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 02:37:57,441 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 02:37:57,535 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 02:37:57,535 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 02:37:57,637 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-14 02:37:57,637 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-14 02:37:58,641 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-14 02:37:58,641 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-14 02:38:13,050 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-14 02:38:13,050 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-14 02:38:20,897 - INFO - Loguer activado.
+2025-09-14 02:38:20,898 - INFO - ====== WebDriver manager ======
+2025-09-14 02:38:23,855 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 02:38:23,968 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 02:38:24,061 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-14 02:38:26,010 - INFO - Loguer activado.
+2025-09-14 02:38:26,010 - INFO - Loguer activado.
+2025-09-14 02:38:26,012 - INFO - ====== WebDriver manager ======
+2025-09-14 02:38:26,012 - INFO - ====== WebDriver manager ======
+2025-09-14 02:38:29,331 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 02:38:29,331 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 02:38:29,423 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 02:38:29,423 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 02:38:29,527 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-14 02:38:29,527 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-14 02:38:30,568 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-14 02:38:30,568 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-14 02:38:42,008 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-14 02:38:42,008 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-14 02:40:25,803 - INFO - Descargas completadas
+2025-09-14 02:40:25,803 - INFO - Descargas completadas
+2025-09-14 02:40:25,803 - INFO - Cerrando driver
+2025-09-14 02:40:25,803 - INFO - Cerrando driver
+2025-09-14 02:40:53,387 - INFO - Archivos procesados en esta ejecución: ['AutoRepuestos Express_20250914.xlsx', 'AutoRepuestos Express_20250914.xlsx', 'Mundo RepCar_20250914.xlsx', 'Mundo RepCar_20250914.xlsx', 'Autofix_20250914.xlsx']
+2025-09-14 02:40:53,387 - INFO - Archivos procesados en esta ejecución: ['AutoRepuestos Express_20250914.xlsx', 'AutoRepuestos Express_20250914.xlsx', 'Mundo RepCar_20250914.xlsx', 'Mundo RepCar_20250914.xlsx', 'Autofix_20250914.xlsx']
+2025-09-14 02:42:01,646 - WARNING - Intento 1/3 al subir AutoRepuestos Express_20250914.xlsx -> 500: {'error': 'timed out'}
+2025-09-14 02:42:01,646 - WARNING - Intento 1/3 al subir AutoRepuestos Express_20250914.xlsx -> 500: {'error': 'timed out'}
+2025-09-14 02:43:11,064 - WARNING - Intento 2/3 al subir AutoRepuestos Express_20250914.xlsx -> 500: {'error': 'timed out'}
+2025-09-14 02:43:11,064 - WARNING - Intento 2/3 al subir AutoRepuestos Express_20250914.xlsx -> 500: {'error': 'timed out'}
+2025-09-14 02:44:22,657 - WARNING - Intento 3/3 al subir AutoRepuestos Express_20250914.xlsx -> 500: {'error': 'timed out'}
+2025-09-14 02:44:22,657 - WARNING - Intento 3/3 al subir AutoRepuestos Express_20250914.xlsx -> 500: {'error': 'timed out'}
+2025-09-14 02:44:22,658 - ERROR - Fallo al subir AutoRepuestos Express_20250914.xlsx: 500: {'error': 'timed out'}
+2025-09-14 02:44:22,658 - ERROR - Fallo al subir AutoRepuestos Express_20250914.xlsx: 500: {'error': 'timed out'}
+2025-09-14 02:45:29,664 - WARNING - Intento 1/3 al subir AutoRepuestos Express_20250914.xlsx -> 500: {'error': 'timed out'}
+2025-09-14 02:45:29,664 - WARNING - Intento 1/3 al subir AutoRepuestos Express_20250914.xlsx -> 500: {'error': 'timed out'}
+2025-09-14 02:46:39,251 - WARNING - Intento 2/3 al subir AutoRepuestos Express_20250914.xlsx -> 500: {'error': 'timed out'}
+2025-09-14 02:46:39,251 - WARNING - Intento 2/3 al subir AutoRepuestos Express_20250914.xlsx -> 500: {'error': 'timed out'}
+2025-09-14 02:47:50,506 - WARNING - Intento 3/3 al subir AutoRepuestos Express_20250914.xlsx -> 500: {'error': 'timed out'}
+2025-09-14 02:47:50,506 - WARNING - Intento 3/3 al subir AutoRepuestos Express_20250914.xlsx -> 500: {'error': 'timed out'}
+2025-09-14 02:47:50,507 - ERROR - Fallo al subir AutoRepuestos Express_20250914.xlsx: 500: {'error': 'timed out'}
+2025-09-14 02:47:50,507 - ERROR - Fallo al subir AutoRepuestos Express_20250914.xlsx: 500: {'error': 'timed out'}
+2025-09-14 02:48:53,714 - WARNING - Intento 1/3 al subir Mundo RepCar_20250914.xlsx -> 500: {'error': 'timed out'}
+2025-09-14 02:48:53,714 - WARNING - Intento 1/3 al subir Mundo RepCar_20250914.xlsx -> 500: {'error': 'timed out'}
+2025-09-14 02:49:00,540 - INFO - Loguer activado.
+2025-09-14 02:49:00,541 - INFO - ====== WebDriver manager ======
+2025-09-14 02:49:03,351 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 02:49:03,445 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 02:49:03,552 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-14 02:49:05,021 - INFO - Loguer activado.
+2025-09-14 02:49:05,021 - INFO - Loguer activado.
+2025-09-14 02:49:05,023 - INFO - ====== WebDriver manager ======
+2025-09-14 02:49:05,023 - INFO - ====== WebDriver manager ======
+2025-09-14 02:49:07,808 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 02:49:07,808 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 02:49:07,901 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 02:49:07,901 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 02:49:07,990 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-14 02:49:07,990 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-14 02:49:09,054 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-14 02:49:09,054 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-14 02:49:33,882 - ERROR - Error al hacer click en ('CSS_SELECTOR', 'a.download-link'): Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x69d2a3+66419]
+	GetHandleVerifier [0x0x69d2e4+66484]
+	(No symbol) [0x0x474bd3]
+	(No symbol) [0x0x4be958]
+	(No symbol) [0x0x4becfb]
+	(No symbol) [0x0x505152]
+	(No symbol) [0x0x4e1064]
+	(No symbol) [0x0x5028a1]
+	(No symbol) [0x0x4e0e16]
+	(No symbol) [0x0x4b25ce]
+	(No symbol) [0x0x4b34a4]
+	GetHandleVerifier [0x0x8e5ee3+2461619]
+	GetHandleVerifier [0x0x8e0f66+2441270]
+	GetHandleVerifier [0x0x6c6242+234258]
+	GetHandleVerifier [0x0x6b6208+168664]
+	GetHandleVerifier [0x0x6bd1ad+197245]
+	GetHandleVerifier [0x0x6a55f8+100040]
+	GetHandleVerifier [0x0x6a5792+100450]
+	GetHandleVerifier [0x0x68f74a+10266]
+	BaseThreadInitThunk [0x0x75f5fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77a182ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77a1827e+238]
+
+2025-09-14 02:49:33,882 - ERROR - Error al hacer click en ('CSS_SELECTOR', 'a.download-link'): Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x69d2a3+66419]
+	GetHandleVerifier [0x0x69d2e4+66484]
+	(No symbol) [0x0x474bd3]
+	(No symbol) [0x0x4be958]
+	(No symbol) [0x0x4becfb]
+	(No symbol) [0x0x505152]
+	(No symbol) [0x0x4e1064]
+	(No symbol) [0x0x5028a1]
+	(No symbol) [0x0x4e0e16]
+	(No symbol) [0x0x4b25ce]
+	(No symbol) [0x0x4b34a4]
+	GetHandleVerifier [0x0x8e5ee3+2461619]
+	GetHandleVerifier [0x0x8e0f66+2441270]
+	GetHandleVerifier [0x0x6c6242+234258]
+	GetHandleVerifier [0x0x6b6208+168664]
+	GetHandleVerifier [0x0x6bd1ad+197245]
+	GetHandleVerifier [0x0x6a55f8+100040]
+	GetHandleVerifier [0x0x6a5792+100450]
+	GetHandleVerifier [0x0x68f74a+10266]
+	BaseThreadInitThunk [0x0x75f5fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77a182ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77a1827e+238]
+
+2025-09-14 02:49:33,883 - ERROR - Fallo durante descargas: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x69d2a3+66419]
+	GetHandleVerifier [0x0x69d2e4+66484]
+	(No symbol) [0x0x474bd3]
+	(No symbol) [0x0x4be958]
+	(No symbol) [0x0x4becfb]
+	(No symbol) [0x0x505152]
+	(No symbol) [0x0x4e1064]
+	(No symbol) [0x0x5028a1]
+	(No symbol) [0x0x4e0e16]
+	(No symbol) [0x0x4b25ce]
+	(No symbol) [0x0x4b34a4]
+	GetHandleVerifier [0x0x8e5ee3+2461619]
+	GetHandleVerifier [0x0x8e0f66+2441270]
+	GetHandleVerifier [0x0x6c6242+234258]
+	GetHandleVerifier [0x0x6b6208+168664]
+	GetHandleVerifier [0x0x6bd1ad+197245]
+	GetHandleVerifier [0x0x6a55f8+100040]
+	GetHandleVerifier [0x0x6a5792+100450]
+	GetHandleVerifier [0x0x68f74a+10266]
+	BaseThreadInitThunk [0x0x75f5fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77a182ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77a1827e+238]
+Traceback (most recent call last):
+  File "c:\Users\Nacho\Documents\Challenge_AIT_Solutions\automatizacion-web\main.py", line 35, in main
+    download_mundo_repcar(driver, DOWNLOAD_DIR)
+  File "c:\Users\Nacho\Documents\Challenge_AIT_Solutions\automatizacion-web\files_downloader.py", line 113, in download_mundo_repcar
+    raise e
+  File "c:\Users\Nacho\Documents\Challenge_AIT_Solutions\automatizacion-web\files_downloader.py", line 101, in download_mundo_repcar
+    driver.click(('CSS_SELECTOR', 'a.download-link'), timeout=20)
+  File "c:\Users\Nacho\Documents\Challenge_AIT_Solutions\automatizacion-web\driver.py", line 44, in click
+    el = WebDriverWait(self.driver, timeout).until(EC.element_to_be_clickable(loc))
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nacho\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x69d2a3+66419]
+	GetHandleVerifier [0x0x69d2e4+66484]
+	(No symbol) [0x0x474bd3]
+	(No symbol) [0x0x4be958]
+	(No symbol) [0x0x4becfb]
+	(No symbol) [0x0x505152]
+	(No symbol) [0x0x4e1064]
+	(No symbol) [0x0x5028a1]
+	(No symbol) [0x0x4e0e16]
+	(No symbol) [0x0x4b25ce]
+	(No symbol) [0x0x4b34a4]
+	GetHandleVerifier [0x0x8e5ee3+2461619]
+	GetHandleVerifier [0x0x8e0f66+2441270]
+	GetHandleVerifier [0x0x6c6242+234258]
+	GetHandleVerifier [0x0x6b6208+168664]
+	GetHandleVerifier [0x0x6bd1ad+197245]
+	GetHandleVerifier [0x0x6a55f8+100040]
+	GetHandleVerifier [0x0x6a5792+100450]
+	GetHandleVerifier [0x0x68f74a+10266]
+	BaseThreadInitThunk [0x0x75f5fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77a182ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77a1827e+238]
+
+2025-09-14 02:49:33,883 - ERROR - Fallo durante descargas: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x69d2a3+66419]
+	GetHandleVerifier [0x0x69d2e4+66484]
+	(No symbol) [0x0x474bd3]
+	(No symbol) [0x0x4be958]
+	(No symbol) [0x0x4becfb]
+	(No symbol) [0x0x505152]
+	(No symbol) [0x0x4e1064]
+	(No symbol) [0x0x5028a1]
+	(No symbol) [0x0x4e0e16]
+	(No symbol) [0x0x4b25ce]
+	(No symbol) [0x0x4b34a4]
+	GetHandleVerifier [0x0x8e5ee3+2461619]
+	GetHandleVerifier [0x0x8e0f66+2441270]
+	GetHandleVerifier [0x0x6c6242+234258]
+	GetHandleVerifier [0x0x6b6208+168664]
+	GetHandleVerifier [0x0x6bd1ad+197245]
+	GetHandleVerifier [0x0x6a55f8+100040]
+	GetHandleVerifier [0x0x6a5792+100450]
+	GetHandleVerifier [0x0x68f74a+10266]
+	BaseThreadInitThunk [0x0x75f5fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77a182ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77a1827e+238]
+Traceback (most recent call last):
+  File "c:\Users\Nacho\Documents\Challenge_AIT_Solutions\automatizacion-web\main.py", line 35, in main
+    download_mundo_repcar(driver, DOWNLOAD_DIR)
+  File "c:\Users\Nacho\Documents\Challenge_AIT_Solutions\automatizacion-web\files_downloader.py", line 113, in download_mundo_repcar
+    raise e
+  File "c:\Users\Nacho\Documents\Challenge_AIT_Solutions\automatizacion-web\files_downloader.py", line 101, in download_mundo_repcar
+    driver.click(('CSS_SELECTOR', 'a.download-link'), timeout=20)
+  File "c:\Users\Nacho\Documents\Challenge_AIT_Solutions\automatizacion-web\driver.py", line 44, in click
+    el = WebDriverWait(self.driver, timeout).until(EC.element_to_be_clickable(loc))
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nacho\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x69d2a3+66419]
+	GetHandleVerifier [0x0x69d2e4+66484]
+	(No symbol) [0x0x474bd3]
+	(No symbol) [0x0x4be958]
+	(No symbol) [0x0x4becfb]
+	(No symbol) [0x0x505152]
+	(No symbol) [0x0x4e1064]
+	(No symbol) [0x0x5028a1]
+	(No symbol) [0x0x4e0e16]
+	(No symbol) [0x0x4b25ce]
+	(No symbol) [0x0x4b34a4]
+	GetHandleVerifier [0x0x8e5ee3+2461619]
+	GetHandleVerifier [0x0x8e0f66+2441270]
+	GetHandleVerifier [0x0x6c6242+234258]
+	GetHandleVerifier [0x0x6b6208+168664]
+	GetHandleVerifier [0x0x6bd1ad+197245]
+	GetHandleVerifier [0x0x6a55f8+100040]
+	GetHandleVerifier [0x0x6a5792+100450]
+	GetHandleVerifier [0x0x68f74a+10266]
+	BaseThreadInitThunk [0x0x75f5fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77a182ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77a1827e+238]
+
+2025-09-14 02:49:33,888 - INFO - Cerrando driver
+2025-09-14 02:49:33,888 - INFO - Cerrando driver
+2025-09-14 02:50:02,294 - INFO - Archivos procesados en esta ejecución: ['AutoRepuestos Express_20250914.xlsx', 'AutoRepuestos Express_20250914.xlsx', 'Mundo RepCar_20250914.xlsx', 'Mundo RepCar_20250914.xlsx', 'Mundo RepCar_20250914.xlsx', 'Autofix_20250914.xlsx']
+2025-09-14 02:50:02,294 - INFO - Archivos procesados en esta ejecución: ['AutoRepuestos Express_20250914.xlsx', 'AutoRepuestos Express_20250914.xlsx', 'Mundo RepCar_20250914.xlsx', 'Mundo RepCar_20250914.xlsx', 'Mundo RepCar_20250914.xlsx', 'Autofix_20250914.xlsx']
+2025-09-14 02:50:21,543 - INFO - Loguer activado.
+2025-09-14 02:50:21,544 - INFO - ====== WebDriver manager ======
+2025-09-14 02:50:24,407 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 02:50:24,501 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 02:50:24,591 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-14 02:50:26,072 - INFO - Loguer activado.
+2025-09-14 02:50:26,072 - INFO - Loguer activado.
+2025-09-14 02:50:26,073 - INFO - ====== WebDriver manager ======
+2025-09-14 02:50:26,073 - INFO - ====== WebDriver manager ======
+2025-09-14 02:50:28,859 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 02:50:28,859 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 02:50:28,949 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 02:50:28,949 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 02:50:29,038 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-14 02:50:29,038 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-14 02:50:30,045 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-14 02:50:30,045 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-14 02:50:54,675 - ERROR - Error al hacer click en ('CSS_SELECTOR', 'a.download-link'): Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x69d2a3+66419]
+	GetHandleVerifier [0x0x69d2e4+66484]
+	(No symbol) [0x0x474bd3]
+	(No symbol) [0x0x4be958]
+	(No symbol) [0x0x4becfb]
+	(No symbol) [0x0x505152]
+	(No symbol) [0x0x4e1064]
+	(No symbol) [0x0x5028a1]
+	(No symbol) [0x0x4e0e16]
+	(No symbol) [0x0x4b25ce]
+	(No symbol) [0x0x4b34a4]
+	GetHandleVerifier [0x0x8e5ee3+2461619]
+	GetHandleVerifier [0x0x8e0f66+2441270]
+	GetHandleVerifier [0x0x6c6242+234258]
+	GetHandleVerifier [0x0x6b6208+168664]
+	GetHandleVerifier [0x0x6bd1ad+197245]
+	GetHandleVerifier [0x0x6a55f8+100040]
+	GetHandleVerifier [0x0x6a5792+100450]
+	GetHandleVerifier [0x0x68f74a+10266]
+	BaseThreadInitThunk [0x0x75f5fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77a182ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77a1827e+238]
+
+2025-09-14 02:50:54,675 - ERROR - Error al hacer click en ('CSS_SELECTOR', 'a.download-link'): Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x69d2a3+66419]
+	GetHandleVerifier [0x0x69d2e4+66484]
+	(No symbol) [0x0x474bd3]
+	(No symbol) [0x0x4be958]
+	(No symbol) [0x0x4becfb]
+	(No symbol) [0x0x505152]
+	(No symbol) [0x0x4e1064]
+	(No symbol) [0x0x5028a1]
+	(No symbol) [0x0x4e0e16]
+	(No symbol) [0x0x4b25ce]
+	(No symbol) [0x0x4b34a4]
+	GetHandleVerifier [0x0x8e5ee3+2461619]
+	GetHandleVerifier [0x0x8e0f66+2441270]
+	GetHandleVerifier [0x0x6c6242+234258]
+	GetHandleVerifier [0x0x6b6208+168664]
+	GetHandleVerifier [0x0x6bd1ad+197245]
+	GetHandleVerifier [0x0x6a55f8+100040]
+	GetHandleVerifier [0x0x6a5792+100450]
+	GetHandleVerifier [0x0x68f74a+10266]
+	BaseThreadInitThunk [0x0x75f5fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77a182ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77a1827e+238]
+
+2025-09-14 02:50:54,676 - ERROR - Fallo durante descargas: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x69d2a3+66419]
+	GetHandleVerifier [0x0x69d2e4+66484]
+	(No symbol) [0x0x474bd3]
+	(No symbol) [0x0x4be958]
+	(No symbol) [0x0x4becfb]
+	(No symbol) [0x0x505152]
+	(No symbol) [0x0x4e1064]
+	(No symbol) [0x0x5028a1]
+	(No symbol) [0x0x4e0e16]
+	(No symbol) [0x0x4b25ce]
+	(No symbol) [0x0x4b34a4]
+	GetHandleVerifier [0x0x8e5ee3+2461619]
+	GetHandleVerifier [0x0x8e0f66+2441270]
+	GetHandleVerifier [0x0x6c6242+234258]
+	GetHandleVerifier [0x0x6b6208+168664]
+	GetHandleVerifier [0x0x6bd1ad+197245]
+	GetHandleVerifier [0x0x6a55f8+100040]
+	GetHandleVerifier [0x0x6a5792+100450]
+	GetHandleVerifier [0x0x68f74a+10266]
+	BaseThreadInitThunk [0x0x75f5fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77a182ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77a1827e+238]
+Traceback (most recent call last):
+  File "c:\Users\Nacho\Documents\Challenge_AIT_Solutions\automatizacion-web\main.py", line 35, in main
+    download_mundo_repcar(driver, DOWNLOAD_DIR)
+  File "c:\Users\Nacho\Documents\Challenge_AIT_Solutions\automatizacion-web\files_downloader.py", line 113, in download_mundo_repcar
+    raise e
+  File "c:\Users\Nacho\Documents\Challenge_AIT_Solutions\automatizacion-web\files_downloader.py", line 101, in download_mundo_repcar
+    driver.click(('CSS_SELECTOR', 'a.download-link'), timeout=20)
+  File "c:\Users\Nacho\Documents\Challenge_AIT_Solutions\automatizacion-web\driver.py", line 44, in click
+    el = WebDriverWait(self.driver, timeout).until(EC.element_to_be_clickable(loc))
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nacho\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x69d2a3+66419]
+	GetHandleVerifier [0x0x69d2e4+66484]
+	(No symbol) [0x0x474bd3]
+	(No symbol) [0x0x4be958]
+	(No symbol) [0x0x4becfb]
+	(No symbol) [0x0x505152]
+	(No symbol) [0x0x4e1064]
+	(No symbol) [0x0x5028a1]
+	(No symbol) [0x0x4e0e16]
+	(No symbol) [0x0x4b25ce]
+	(No symbol) [0x0x4b34a4]
+	GetHandleVerifier [0x0x8e5ee3+2461619]
+	GetHandleVerifier [0x0x8e0f66+2441270]
+	GetHandleVerifier [0x0x6c6242+234258]
+	GetHandleVerifier [0x0x6b6208+168664]
+	GetHandleVerifier [0x0x6bd1ad+197245]
+	GetHandleVerifier [0x0x6a55f8+100040]
+	GetHandleVerifier [0x0x6a5792+100450]
+	GetHandleVerifier [0x0x68f74a+10266]
+	BaseThreadInitThunk [0x0x75f5fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77a182ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77a1827e+238]
+
+2025-09-14 02:50:54,676 - ERROR - Fallo durante descargas: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x69d2a3+66419]
+	GetHandleVerifier [0x0x69d2e4+66484]
+	(No symbol) [0x0x474bd3]
+	(No symbol) [0x0x4be958]
+	(No symbol) [0x0x4becfb]
+	(No symbol) [0x0x505152]
+	(No symbol) [0x0x4e1064]
+	(No symbol) [0x0x5028a1]
+	(No symbol) [0x0x4e0e16]
+	(No symbol) [0x0x4b25ce]
+	(No symbol) [0x0x4b34a4]
+	GetHandleVerifier [0x0x8e5ee3+2461619]
+	GetHandleVerifier [0x0x8e0f66+2441270]
+	GetHandleVerifier [0x0x6c6242+234258]
+	GetHandleVerifier [0x0x6b6208+168664]
+	GetHandleVerifier [0x0x6bd1ad+197245]
+	GetHandleVerifier [0x0x6a55f8+100040]
+	GetHandleVerifier [0x0x6a5792+100450]
+	GetHandleVerifier [0x0x68f74a+10266]
+	BaseThreadInitThunk [0x0x75f5fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77a182ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77a1827e+238]
+Traceback (most recent call last):
+  File "c:\Users\Nacho\Documents\Challenge_AIT_Solutions\automatizacion-web\main.py", line 35, in main
+    download_mundo_repcar(driver, DOWNLOAD_DIR)
+  File "c:\Users\Nacho\Documents\Challenge_AIT_Solutions\automatizacion-web\files_downloader.py", line 113, in download_mundo_repcar
+    raise e
+  File "c:\Users\Nacho\Documents\Challenge_AIT_Solutions\automatizacion-web\files_downloader.py", line 101, in download_mundo_repcar
+    driver.click(('CSS_SELECTOR', 'a.download-link'), timeout=20)
+  File "c:\Users\Nacho\Documents\Challenge_AIT_Solutions\automatizacion-web\driver.py", line 44, in click
+    el = WebDriverWait(self.driver, timeout).until(EC.element_to_be_clickable(loc))
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nacho\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x69d2a3+66419]
+	GetHandleVerifier [0x0x69d2e4+66484]
+	(No symbol) [0x0x474bd3]
+	(No symbol) [0x0x4be958]
+	(No symbol) [0x0x4becfb]
+	(No symbol) [0x0x505152]
+	(No symbol) [0x0x4e1064]
+	(No symbol) [0x0x5028a1]
+	(No symbol) [0x0x4e0e16]
+	(No symbol) [0x0x4b25ce]
+	(No symbol) [0x0x4b34a4]
+	GetHandleVerifier [0x0x8e5ee3+2461619]
+	GetHandleVerifier [0x0x8e0f66+2441270]
+	GetHandleVerifier [0x0x6c6242+234258]
+	GetHandleVerifier [0x0x6b6208+168664]
+	GetHandleVerifier [0x0x6bd1ad+197245]
+	GetHandleVerifier [0x0x6a55f8+100040]
+	GetHandleVerifier [0x0x6a5792+100450]
+	GetHandleVerifier [0x0x68f74a+10266]
+	BaseThreadInitThunk [0x0x75f5fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77a182ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77a1827e+238]
+
+2025-09-14 02:50:54,681 - INFO - Cerrando driver
+2025-09-14 02:50:54,681 - INFO - Cerrando driver
+2025-09-14 02:51:24,540 - INFO - Archivos procesados en esta ejecución: ['AutoRepuestos Express_20250914.xlsx', 'AutoRepuestos Express_20250914.xlsx', 'Mundo RepCar_20250914.xlsx', 'Mundo RepCar_20250914.xlsx', 'Mundo RepCar_20250914.xlsx', 'Mundo RepCar_20250914.xlsx', 'Autofix_20250914.xlsx']
+2025-09-14 02:51:24,540 - INFO - Archivos procesados en esta ejecución: ['AutoRepuestos Express_20250914.xlsx', 'AutoRepuestos Express_20250914.xlsx', 'Mundo RepCar_20250914.xlsx', 'Mundo RepCar_20250914.xlsx', 'Mundo RepCar_20250914.xlsx', 'Mundo RepCar_20250914.xlsx', 'Autofix_20250914.xlsx']
+2025-09-14 02:53:34,802 - INFO - Loguer activado.
+2025-09-14 02:53:34,803 - INFO - ====== WebDriver manager ======
+2025-09-14 02:53:37,971 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 02:53:38,081 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 02:53:38,186 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-14 02:53:39,635 - INFO - Loguer activado.
+2025-09-14 02:53:39,635 - INFO - Loguer activado.
+2025-09-14 02:53:39,636 - INFO - ====== WebDriver manager ======
+2025-09-14 02:53:39,636 - INFO - ====== WebDriver manager ======
+2025-09-14 02:53:42,504 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 02:53:42,504 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 02:53:42,591 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 02:53:42,591 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 02:53:42,684 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-14 02:53:42,684 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-14 02:53:43,674 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-14 02:53:43,674 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-14 02:53:58,892 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-14 02:53:58,892 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-14 02:55:44,522 - INFO - Descargas completadas
+2025-09-14 02:55:44,522 - INFO - Descargas completadas
+2025-09-14 02:55:44,522 - INFO - Cerrando driver
+2025-09-14 02:55:44,522 - INFO - Cerrando driver
+2025-09-14 02:56:04,034 - INFO - Archivos procesados en esta ejecución: ['AutoRepuestos Express_20250914.xlsx', 'Mundo RepCar_20250914.xlsx', 'Autofix_20250914.xlsx']
+2025-09-14 02:56:04,034 - INFO - Archivos procesados en esta ejecución: ['AutoRepuestos Express_20250914.xlsx', 'Mundo RepCar_20250914.xlsx', 'Autofix_20250914.xlsx']
+2025-09-14 11:31:22,211 - INFO - Loguer activado.
+2025-09-14 11:31:22,213 - INFO - ====== WebDriver manager ======
+2025-09-14 11:31:27,179 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 11:31:27,316 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 11:31:27,421 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-14 11:31:31,608 - INFO - Loguer activado.
+2025-09-14 11:31:31,608 - INFO - Loguer activado.
+2025-09-14 11:31:31,609 - INFO - ====== WebDriver manager ======
+2025-09-14 11:31:31,609 - INFO - ====== WebDriver manager ======
+2025-09-14 11:31:34,400 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 11:31:34,400 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 11:31:34,499 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 11:31:34,499 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-14 11:31:34,598 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-14 11:31:34,598 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-14 11:31:35,577 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-14 11:31:35,577 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-14 11:31:50,075 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-14 11:31:50,075 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-14 11:33:32,840 - INFO - Descargas completadas
+2025-09-14 11:33:32,840 - INFO - Descargas completadas
+2025-09-14 11:33:32,840 - INFO - Cerrando driver
+2025-09-14 11:33:32,840 - INFO - Cerrando driver
+2025-09-14 11:33:53,342 - INFO - Archivos procesados en esta ejecución: ['AutoRepuestos Express_20250914.xlsx', 'Mundo RepCar_20250914.xlsx', 'Autofix_20250914.xlsx']
+2025-09-14 11:33:53,342 - INFO - Archivos procesados en esta ejecución: ['AutoRepuestos Express_20250914.xlsx', 'Mundo RepCar_20250914.xlsx', 'Autofix_20250914.xlsx']
+2025-09-14 11:35:00,974 - WARNING - Intento 1/3 al subir AutoRepuestos Express_20250914.xlsx -> 500: {'error': 'timed out'}
+2025-09-14 11:35:00,974 - WARNING - Intento 1/3 al subir AutoRepuestos Express_20250914.xlsx -> 500: {'error': 'timed out'}
+2025-09-14 11:36:10,685 - WARNING - Intento 2/3 al subir AutoRepuestos Express_20250914.xlsx -> 500: {'error': 'timed out'}
+2025-09-14 11:36:10,685 - WARNING - Intento 2/3 al subir AutoRepuestos Express_20250914.xlsx -> 500: {'error': 'timed out'}
+2025-09-14 11:37:22,603 - WARNING - Intento 3/3 al subir AutoRepuestos Express_20250914.xlsx -> 500: {'error': 'timed out'}
+2025-09-14 11:37:22,603 - WARNING - Intento 3/3 al subir AutoRepuestos Express_20250914.xlsx -> 500: {'error': 'timed out'}
+2025-09-14 11:37:22,604 - ERROR - Fallo al subir AutoRepuestos Express_20250914.xlsx: 500: {'error': 'timed out'}
+2025-09-14 11:37:22,604 - ERROR - Fallo al subir AutoRepuestos Express_20250914.xlsx: 500: {'error': 'timed out'}
+2025-09-14 11:38:25,893 - WARNING - Intento 1/3 al subir Mundo RepCar_20250914.xlsx -> 500: {'error': 'timed out'}
+2025-09-14 11:38:25,893 - WARNING - Intento 1/3 al subir Mundo RepCar_20250914.xlsx -> 500: {'error': 'timed out'}
+2025-09-14 11:39:30,871 - WARNING - Intento 2/3 al subir Mundo RepCar_20250914.xlsx -> 500: {'error': 'timed out'}
+2025-09-14 11:39:30,871 - WARNING - Intento 2/3 al subir Mundo RepCar_20250914.xlsx -> 500: {'error': 'timed out'}
+2025-09-14 11:40:37,837 - WARNING - Intento 3/3 al subir Mundo RepCar_20250914.xlsx -> 500: {'error': 'timed out'}
+2025-09-14 11:40:37,837 - WARNING - Intento 3/3 al subir Mundo RepCar_20250914.xlsx -> 500: {'error': 'timed out'}
+2025-09-14 11:40:37,838 - ERROR - Fallo al subir Mundo RepCar_20250914.xlsx: 500: {'error': 'timed out'}
+2025-09-14 11:40:37,838 - ERROR - Fallo al subir Mundo RepCar_20250914.xlsx: 500: {'error': 'timed out'}
+2025-09-14 11:41:47,212 - WARNING - Intento 1/3 al subir Autofix_20250914.xlsx -> 500: {'error': 'timed out'}
+2025-09-14 11:41:47,212 - WARNING - Intento 1/3 al subir Autofix_20250914.xlsx -> 500: {'error': 'timed out'}
+2025-09-14 11:42:59,580 - WARNING - Intento 2/3 al subir Autofix_20250914.xlsx -> 500: {'error': 'timed out'}
+2025-09-14 11:42:59,580 - WARNING - Intento 2/3 al subir Autofix_20250914.xlsx -> 500: {'error': 'timed out'}
+2025-09-14 11:44:13,691 - WARNING - Intento 3/3 al subir Autofix_20250914.xlsx -> 500: {'error': 'timed out'}
+2025-09-14 11:44:13,691 - WARNING - Intento 3/3 al subir Autofix_20250914.xlsx -> 500: {'error': 'timed out'}
+2025-09-14 11:44:13,692 - ERROR - Fallo al subir Autofix_20250914.xlsx: 500: {'error': 'timed out'}
+2025-09-14 11:44:13,692 - ERROR - Fallo al subir Autofix_20250914.xlsx: 500: {'error': 'timed out'}

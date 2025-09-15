@@ -1,0 +1,543 @@
+2025-09-13 20:58:21,639 - INFO - Loguer activado.
+2025-09-13 20:58:21,639 - INFO - ====== WebDriver manager ======
+2025-09-13 20:58:24,736 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 20:58:24,842 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 20:58:24,936 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-13 20:58:25,979 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-13 20:58:28,076 - INFO - Cerrando driver
+2025-09-13 21:05:49,911 - INFO - Loguer activado.
+2025-09-13 21:05:49,912 - INFO - ====== WebDriver manager ======
+2025-09-13 21:05:52,781 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 21:05:52,868 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 21:05:52,962 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-13 21:05:54,009 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-13 21:05:55,315 - INFO - Cerrando driver
+2025-09-13 21:15:28,273 - INFO - Loguer activado.
+2025-09-13 21:15:28,273 - INFO - ====== WebDriver manager ======
+2025-09-13 21:15:31,128 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 21:15:31,222 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 21:15:31,315 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-13 21:15:32,301 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-13 21:15:33,571 - INFO - Cerrando driver
+2025-09-13 21:20:14,453 - INFO - Loguer activado.
+2025-09-13 21:20:14,454 - INFO - ====== WebDriver manager ======
+2025-09-13 21:20:17,308 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 21:20:17,407 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 21:20:17,512 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-13 21:20:18,582 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-13 21:21:22,404 - INFO - Cerrando driver
+2025-09-13 21:22:01,425 - INFO - Loguer activado.
+2025-09-13 21:22:01,425 - INFO - ====== WebDriver manager ======
+2025-09-13 21:22:04,264 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 21:22:04,364 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 21:22:04,453 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-13 21:22:05,515 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-13 21:23:09,250 - INFO - Cerrando driver
+2025-09-13 21:27:55,965 - INFO - Loguer activado.
+2025-09-13 21:27:55,966 - INFO - ====== WebDriver manager ======
+2025-09-13 21:27:58,754 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 21:27:58,842 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 21:27:58,933 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-13 21:27:59,970 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-13 21:28:06,864 - INFO - Cerrando driver
+2025-09-13 21:42:06,658 - INFO - Loguer activado.
+2025-09-13 21:42:06,659 - INFO - ====== WebDriver manager ======
+2025-09-13 21:42:09,660 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 21:42:09,747 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 21:42:09,848 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-13 21:42:30,535 - INFO - Loguer activado.
+2025-09-13 21:42:30,582 - INFO - ====== WebDriver manager ======
+2025-09-13 21:42:33,713 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 21:42:33,803 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 21:42:33,889 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-13 21:43:19,101 - INFO - Loguer activado.
+2025-09-13 21:43:19,101 - INFO - ====== WebDriver manager ======
+2025-09-13 21:43:21,879 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 21:43:21,978 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 21:43:22,069 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-13 21:43:59,126 - INFO - Loguer activado.
+2025-09-13 21:43:59,126 - INFO - ====== WebDriver manager ======
+2025-09-13 21:44:01,896 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 21:44:01,991 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 21:44:02,088 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-13 21:44:23,443 - ERROR - Error al hacer click en ('ID', 'download-button-autorepuestos-express'): Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x99d2a3+66419]
+	GetHandleVerifier [0x0x99d2e4+66484]
+	(No symbol) [0x0x774bd3]
+	(No symbol) [0x0x7be958]
+	(No symbol) [0x0x7becfb]
+	(No symbol) [0x0x805152]
+	(No symbol) [0x0x7e1064]
+	(No symbol) [0x0x8028a1]
+	(No symbol) [0x0x7e0e16]
+	(No symbol) [0x0x7b25ce]
+	(No symbol) [0x0x7b34a4]
+	GetHandleVerifier [0x0xbe5ee3+2461619]
+	GetHandleVerifier [0x0xbe0f66+2441270]
+	GetHandleVerifier [0x0x9c6242+234258]
+	GetHandleVerifier [0x0x9b6208+168664]
+	GetHandleVerifier [0x0x9bd1ad+197245]
+	GetHandleVerifier [0x0x9a55f8+100040]
+	GetHandleVerifier [0x0x9a5792+100450]
+	GetHandleVerifier [0x0x98f74a+10266]
+	BaseThreadInitThunk [0x0x75f5fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77a182ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77a1827e+238]
+
+2025-09-13 21:44:49,538 - INFO - Loguer activado.
+2025-09-13 21:44:49,539 - INFO - ====== WebDriver manager ======
+2025-09-13 21:44:52,352 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 21:44:52,454 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 21:44:52,543 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-13 21:45:13,873 - ERROR - Error al hacer click en ('ID', 'download-button-autorepuestos-express'): Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x99d2a3+66419]
+	GetHandleVerifier [0x0x99d2e4+66484]
+	(No symbol) [0x0x774bd3]
+	(No symbol) [0x0x7be958]
+	(No symbol) [0x0x7becfb]
+	(No symbol) [0x0x805152]
+	(No symbol) [0x0x7e1064]
+	(No symbol) [0x0x8028a1]
+	(No symbol) [0x0x7e0e16]
+	(No symbol) [0x0x7b25ce]
+	(No symbol) [0x0x7b34a4]
+	GetHandleVerifier [0x0xbe5ee3+2461619]
+	GetHandleVerifier [0x0xbe0f66+2441270]
+	GetHandleVerifier [0x0x9c6242+234258]
+	GetHandleVerifier [0x0x9b6208+168664]
+	GetHandleVerifier [0x0x9bd1ad+197245]
+	GetHandleVerifier [0x0x9a55f8+100040]
+	GetHandleVerifier [0x0x9a5792+100450]
+	GetHandleVerifier [0x0x98f74a+10266]
+	BaseThreadInitThunk [0x0x75f5fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77a182ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77a1827e+238]
+
+2025-09-13 21:45:42,746 - INFO - Loguer activado.
+2025-09-13 21:45:42,747 - INFO - ====== WebDriver manager ======
+2025-09-13 21:45:45,488 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 21:45:45,580 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 21:45:45,673 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-13 21:46:06,935 - ERROR - Error al hacer click en ('ID', 'download-button-autorepuestos-express'): Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x99d2a3+66419]
+	GetHandleVerifier [0x0x99d2e4+66484]
+	(No symbol) [0x0x774bd3]
+	(No symbol) [0x0x7be958]
+	(No symbol) [0x0x7becfb]
+	(No symbol) [0x0x805152]
+	(No symbol) [0x0x7e1064]
+	(No symbol) [0x0x8028a1]
+	(No symbol) [0x0x7e0e16]
+	(No symbol) [0x0x7b25ce]
+	(No symbol) [0x0x7b34a4]
+	GetHandleVerifier [0x0xbe5ee3+2461619]
+	GetHandleVerifier [0x0xbe0f66+2441270]
+	GetHandleVerifier [0x0x9c6242+234258]
+	GetHandleVerifier [0x0x9b6208+168664]
+	GetHandleVerifier [0x0x9bd1ad+197245]
+	GetHandleVerifier [0x0x9a55f8+100040]
+	GetHandleVerifier [0x0x9a5792+100450]
+	GetHandleVerifier [0x0x98f74a+10266]
+	BaseThreadInitThunk [0x0x75f5fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77a182ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77a1827e+238]
+
+2025-09-13 21:46:47,443 - INFO - Loguer activado.
+2025-09-13 21:46:47,444 - INFO - ====== WebDriver manager ======
+2025-09-13 21:46:50,408 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 21:46:50,503 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 21:46:50,607 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-13 21:46:51,664 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-13 21:46:57,862 - INFO - Cerrando driver
+2025-09-13 21:52:20,301 - INFO - Loguer activado.
+2025-09-13 21:52:20,301 - INFO - ====== WebDriver manager ======
+2025-09-13 21:52:23,151 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 21:52:23,243 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 21:52:23,349 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-13 21:52:24,343 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-13 21:54:48,079 - INFO - Loguer activado.
+2025-09-13 21:54:48,080 - INFO - ====== WebDriver manager ======
+2025-09-13 21:54:50,945 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 21:54:51,035 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 21:54:51,132 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-13 21:54:52,201 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-13 21:58:23,343 - INFO - Loguer activado.
+2025-09-13 21:58:23,344 - INFO - ====== WebDriver manager ======
+2025-09-13 21:58:26,178 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 21:58:26,270 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 21:58:26,370 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-13 21:58:27,432 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-13 22:00:08,500 - INFO - Loguer activado.
+2025-09-13 22:00:08,500 - INFO - ====== WebDriver manager ======
+2025-09-13 22:00:11,344 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 22:00:11,429 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 22:00:11,526 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-13 22:00:12,517 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-13 22:05:43,113 - INFO - Loguer activado.
+2025-09-13 22:05:43,114 - INFO - ====== WebDriver manager ======
+2025-09-13 22:05:46,126 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 22:05:46,225 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 22:05:46,322 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-13 22:05:47,311 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-13 22:07:23,344 - INFO - Loguer activado.
+2025-09-13 22:07:23,345 - INFO - ====== WebDriver manager ======
+2025-09-13 22:07:26,298 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 22:07:26,398 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 22:07:26,495 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-13 22:07:27,535 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-13 22:23:06,487 - INFO - Loguer activado.
+2025-09-13 22:23:06,488 - INFO - ====== WebDriver manager ======
+2025-09-13 22:23:09,419 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 22:23:09,510 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 22:23:09,604 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-13 22:23:10,653 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-13 22:23:17,319 - ERROR - Error al tipear en ('ID', 'username'): 'NoneType' object is not iterable
+2025-09-13 22:25:18,466 - INFO - Loguer activado.
+2025-09-13 22:25:18,466 - INFO - ====== WebDriver manager ======
+2025-09-13 22:25:21,687 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 22:25:21,778 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 22:25:21,873 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-13 22:25:22,874 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-13 22:25:24,141 - ERROR - Error al tipear en ('ID', 'username'): 'NoneType' object is not iterable
+2025-09-13 22:28:27,905 - INFO - Loguer activado.
+2025-09-13 22:28:27,906 - INFO - ====== WebDriver manager ======
+2025-09-13 22:28:30,776 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 22:28:30,879 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 22:28:30,984 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-13 22:28:32,043 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-13 22:28:33,589 - ERROR - Error al tipear en ('ID', 'username'): 'NoneType' object is not iterable
+2025-09-13 22:29:52,695 - INFO - Loguer activado.
+2025-09-13 22:29:52,695 - INFO - ====== WebDriver manager ======
+2025-09-13 22:29:55,550 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 22:29:55,648 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 22:29:55,742 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-13 22:29:56,741 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-13 22:30:00,411 - ERROR - Error al tipear en ('ID', 'username'): 'NoneType' object is not iterable
+2025-09-13 22:30:20,604 - INFO - Loguer activado.
+2025-09-13 22:30:20,605 - INFO - ====== WebDriver manager ======
+2025-09-13 22:30:23,561 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 22:30:23,662 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 22:30:23,771 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-13 22:30:24,778 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-13 22:30:25,897 - ERROR - Error al tipear en ('ID', 'username'): 'NoneType' object is not iterable
+2025-09-13 22:30:53,547 - INFO - Loguer activado.
+2025-09-13 22:30:53,548 - INFO - ====== WebDriver manager ======
+2025-09-13 22:30:56,507 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 22:30:56,606 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 22:30:56,705 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-13 22:30:57,703 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-13 22:30:58,990 - ERROR - Error al tipear en ('ID', 'username'): 'NoneType' object is not iterable
+2025-09-13 22:34:10,963 - INFO - Loguer activado.
+2025-09-13 22:34:10,965 - INFO - ====== WebDriver manager ======
+2025-09-13 22:34:13,806 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 22:34:13,909 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 22:34:14,015 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-13 22:34:15,003 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-13 22:34:53,816 - INFO - Loguer activado.
+2025-09-13 22:34:53,817 - INFO - ====== WebDriver manager ======
+2025-09-13 22:34:56,710 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 22:34:56,814 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 22:34:56,921 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-13 22:34:57,972 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-13 22:36:09,142 - INFO - Loguer activado.
+2025-09-13 22:36:09,143 - INFO - ====== WebDriver manager ======
+2025-09-13 22:36:11,964 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 22:36:12,061 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 22:36:12,170 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-13 22:36:13,238 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-13 22:37:31,672 - INFO - Loguer activado.
+2025-09-13 22:37:31,673 - INFO - ====== WebDriver manager ======
+2025-09-13 22:37:34,565 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 22:37:34,681 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 22:37:34,777 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-13 22:37:35,844 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-13 22:40:47,141 - INFO - Loguer activado.
+2025-09-13 22:40:47,143 - INFO - ====== WebDriver manager ======
+2025-09-13 22:40:50,369 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 22:40:50,482 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 22:40:50,581 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-13 22:40:51,746 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-13 22:41:16,451 - INFO - Loguer activado.
+2025-09-13 22:41:16,459 - INFO - ====== WebDriver manager ======
+2025-09-13 22:41:20,757 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 22:41:20,864 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 22:41:20,965 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-13 22:41:23,286 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-13 22:46:46,458 - INFO - Loguer activado.
+2025-09-13 22:46:46,460 - INFO - ====== WebDriver manager ======
+2025-09-13 22:46:49,329 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 22:46:49,420 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 22:46:49,510 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-13 22:46:50,567 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-13 22:47:36,513 - INFO - Loguer activado.
+2025-09-13 22:47:36,514 - INFO - ====== WebDriver manager ======
+2025-09-13 22:47:39,384 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 22:47:39,479 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 22:47:39,587 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-13 22:47:40,618 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-13 22:48:08,108 - INFO - Loguer activado.
+2025-09-13 22:48:08,109 - INFO - ====== WebDriver manager ======
+2025-09-13 22:48:10,890 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 22:48:10,982 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 22:48:11,090 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-13 22:48:12,082 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-13 22:50:53,568 - INFO - Loguer activado.
+2025-09-13 22:50:53,570 - INFO - ====== WebDriver manager ======
+2025-09-13 22:50:56,727 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 22:50:56,836 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 22:50:56,932 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-13 22:50:57,996 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-13 22:52:27,924 - INFO - Loguer activado.
+2025-09-13 22:52:27,926 - INFO - ====== WebDriver manager ======
+2025-09-13 22:52:30,816 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 22:52:30,907 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 22:52:31,006 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-13 22:52:32,046 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-13 22:53:32,836 - INFO - Loguer activado.
+2025-09-13 22:53:32,837 - INFO - ====== WebDriver manager ======
+2025-09-13 22:53:35,673 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 22:53:35,781 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 22:53:35,874 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-13 22:53:36,887 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-13 22:53:56,941 - INFO - Loguer activado.
+2025-09-13 22:53:56,943 - INFO - ====== WebDriver manager ======
+2025-09-13 22:53:59,758 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 22:53:59,852 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 22:53:59,962 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-13 22:54:01,024 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-13 23:11:21,863 - INFO - Loguer activado.
+2025-09-13 23:11:21,865 - INFO - ====== WebDriver manager ======
+2025-09-13 23:11:24,701 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 23:11:24,825 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 23:11:24,919 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-13 23:11:26,036 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-13 23:12:14,293 - INFO - Loguer activado.
+2025-09-13 23:12:14,294 - INFO - ====== WebDriver manager ======
+2025-09-13 23:12:17,343 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 23:12:17,442 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 23:12:17,547 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-13 23:12:18,613 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-13 23:12:42,665 - INFO - Loguer activado.
+2025-09-13 23:12:42,667 - INFO - ====== WebDriver manager ======
+2025-09-13 23:12:45,604 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 23:12:45,708 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 23:12:45,814 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-13 23:12:46,871 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-13 23:13:12,473 - ERROR - Error al hacer click en ('ID', 'download-button-autofix'): Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x99d2a3+66419]
+	GetHandleVerifier [0x0x99d2e4+66484]
+	(No symbol) [0x0x774bd3]
+	(No symbol) [0x0x7be958]
+	(No symbol) [0x0x7becfb]
+	(No symbol) [0x0x805152]
+	(No symbol) [0x0x7e1064]
+	(No symbol) [0x0x8028a1]
+	(No symbol) [0x0x7e0e16]
+	(No symbol) [0x0x7b25ce]
+	(No symbol) [0x0x7b34a4]
+	GetHandleVerifier [0x0xbe5ee3+2461619]
+	GetHandleVerifier [0x0xbe0f66+2441270]
+	GetHandleVerifier [0x0x9c6242+234258]
+	GetHandleVerifier [0x0x9b6208+168664]
+	GetHandleVerifier [0x0x9bd1ad+197245]
+	GetHandleVerifier [0x0x9a55f8+100040]
+	GetHandleVerifier [0x0x9a5792+100450]
+	GetHandleVerifier [0x0x98f74a+10266]
+	BaseThreadInitThunk [0x0x75f5fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77a182ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77a1827e+238]
+
+2025-09-13 23:18:34,907 - INFO - Loguer activado.
+2025-09-13 23:18:34,909 - INFO - ====== WebDriver manager ======
+2025-09-13 23:18:37,715 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 23:18:37,840 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 23:18:37,934 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-13 23:18:39,005 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-13 23:19:15,816 - INFO - Loguer activado.
+2025-09-13 23:19:15,817 - INFO - ====== WebDriver manager ======
+2025-09-13 23:19:18,703 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 23:19:18,798 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 23:19:18,900 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-13 23:19:19,955 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-13 23:19:36,552 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-13 23:19:44,554 - ERROR - Error al hacer click en ('CSS_SELECTOR', 'button.bg-blue-600.border-blue-600'): Message: element click intercepted: Element <button type="button" class="inline-flex items-center px-4 py-2 border shadow-sm text-sm font-medium rounded-md  bg-blue-600 hover:bg-blue-700 border-blue-600 text-white">...</button> is not clickable at point (1181, 498). Other element would receive the click: <div class="fixed inset-0 bg-gray-700 bg-opacity-75 flex justify-center items-center z-50" id="loading-overlay">...</div>
+  (Session info: chrome=140.0.7339.128)
+Stacktrace:
+	GetHandleVerifier [0x0x99d2a3+66419]
+	GetHandleVerifier [0x0x99d2e4+66484]
+	(No symbol) [0x0x774bd3]
+	(No symbol) [0x0x7c4e40]
+	(No symbol) [0x0x7c31a3]
+	(No symbol) [0x0x7c0c57]
+	(No symbol) [0x0x7bfedd]
+	(No symbol) [0x0x7b43c5]
+	(No symbol) [0x0x7e101c]
+	(No symbol) [0x0x7b3e24]
+	(No symbol) [0x0x7e11d4]
+	(No symbol) [0x0x8028a1]
+	(No symbol) [0x0x7e0e16]
+	(No symbol) [0x0x7b25ce]
+	(No symbol) [0x0x7b34a4]
+	GetHandleVerifier [0x0xbe5ee3+2461619]
+	GetHandleVerifier [0x0xbe0f66+2441270]
+	GetHandleVerifier [0x0x9c6242+234258]
+	GetHandleVerifier [0x0x9b6208+168664]
+	GetHandleVerifier [0x0x9bd1ad+197245]
+	GetHandleVerifier [0x0x9a55f8+100040]
+	GetHandleVerifier [0x0x9a5792+100450]
+	GetHandleVerifier [0x0x98f74a+10266]
+	BaseThreadInitThunk [0x0x75f5fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77a182ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77a1827e+238]
+
+2025-09-13 23:19:47,144 - ERROR - Error al hacer click en ('CSS_SELECTOR', 'button.bg-blue-600.border-blue-600'): Message: element click intercepted: Element <button type="button" class="inline-flex items-center px-4 py-2 border shadow-sm text-sm font-medium rounded-md  bg-blue-600 hover:bg-blue-700 border-blue-600 text-white">...</button> is not clickable at point (1181, 498). Other element would receive the click: <div class="fixed inset-0 bg-gray-700 bg-opacity-75 flex justify-center items-center z-50" id="loading-overlay">...</div>
+  (Session info: chrome=140.0.7339.128)
+Stacktrace:
+	GetHandleVerifier [0x0x99d2a3+66419]
+	GetHandleVerifier [0x0x99d2e4+66484]
+	(No symbol) [0x0x774bd3]
+	(No symbol) [0x0x7c4e40]
+	(No symbol) [0x0x7c31a3]
+	(No symbol) [0x0x7c0c57]
+	(No symbol) [0x0x7bfedd]
+	(No symbol) [0x0x7b43c5]
+	(No symbol) [0x0x7e101c]
+	(No symbol) [0x0x7b3e24]
+	(No symbol) [0x0x7e11d4]
+	(No symbol) [0x0x8028a1]
+	(No symbol) [0x0x7e0e16]
+	(No symbol) [0x0x7b25ce]
+	(No symbol) [0x0x7b34a4]
+	GetHandleVerifier [0x0xbe5ee3+2461619]
+	GetHandleVerifier [0x0xbe0f66+2441270]
+	GetHandleVerifier [0x0x9c6242+234258]
+	GetHandleVerifier [0x0x9b6208+168664]
+	GetHandleVerifier [0x0x9bd1ad+197245]
+	GetHandleVerifier [0x0x9a55f8+100040]
+	GetHandleVerifier [0x0x9a5792+100450]
+	GetHandleVerifier [0x0x98f74a+10266]
+	BaseThreadInitThunk [0x0x75f5fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77a182ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77a1827e+238]
+
+2025-09-13 23:19:49,782 - ERROR - Error al hacer click en ('CSS_SELECTOR', 'button.bg-blue-600.border-blue-600'): Message: element click intercepted: Element <button type="button" class="inline-flex items-center px-4 py-2 border shadow-sm text-sm font-medium rounded-md  bg-blue-600 hover:bg-blue-700 border-blue-600 text-white">...</button> is not clickable at point (1181, 498). Other element would receive the click: <div class="fixed inset-0 bg-gray-700 bg-opacity-75 flex justify-center items-center z-50" id="loading-overlay">...</div>
+  (Session info: chrome=140.0.7339.128)
+Stacktrace:
+	GetHandleVerifier [0x0x99d2a3+66419]
+	GetHandleVerifier [0x0x99d2e4+66484]
+	(No symbol) [0x0x774bd3]
+	(No symbol) [0x0x7c4e40]
+	(No symbol) [0x0x7c31a3]
+	(No symbol) [0x0x7c0c57]
+	(No symbol) [0x0x7bfedd]
+	(No symbol) [0x0x7b43c5]
+	(No symbol) [0x0x7e101c]
+	(No symbol) [0x0x7b3e24]
+	(No symbol) [0x0x7e11d4]
+	(No symbol) [0x0x8028a1]
+	(No symbol) [0x0x7e0e16]
+	(No symbol) [0x0x7b25ce]
+	(No symbol) [0x0x7b34a4]
+	GetHandleVerifier [0x0xbe5ee3+2461619]
+	GetHandleVerifier [0x0xbe0f66+2441270]
+	GetHandleVerifier [0x0x9c6242+234258]
+	GetHandleVerifier [0x0x9b6208+168664]
+	GetHandleVerifier [0x0x9bd1ad+197245]
+	GetHandleVerifier [0x0x9a55f8+100040]
+	GetHandleVerifier [0x0x9a5792+100450]
+	GetHandleVerifier [0x0x98f74a+10266]
+	BaseThreadInitThunk [0x0x75f5fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77a182ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77a1827e+238]
+
+2025-09-13 23:19:55,951 - ERROR - Error al hacer click en ('CSS_SELECTOR', 'button.bg-blue-600.border-blue-600'): Message: element click intercepted: Element <button type="button" class="inline-flex items-center px-4 py-2 border shadow-sm text-sm font-medium rounded-md  bg-blue-600 hover:bg-blue-700 border-blue-600 text-white">...</button> is not clickable at point (1181, 498). Other element would receive the click: <div class="fixed inset-0 bg-gray-700 bg-opacity-75 flex justify-center items-center z-50" id="loading-overlay">...</div>
+  (Session info: chrome=140.0.7339.128)
+Stacktrace:
+	GetHandleVerifier [0x0x99d2a3+66419]
+	GetHandleVerifier [0x0x99d2e4+66484]
+	(No symbol) [0x0x774bd3]
+	(No symbol) [0x0x7c4e40]
+	(No symbol) [0x0x7c31a3]
+	(No symbol) [0x0x7c0c57]
+	(No symbol) [0x0x7bfedd]
+	(No symbol) [0x0x7b43c5]
+	(No symbol) [0x0x7e101c]
+	(No symbol) [0x0x7b3e24]
+	(No symbol) [0x0x7e11d4]
+	(No symbol) [0x0x8028a1]
+	(No symbol) [0x0x7e0e16]
+	(No symbol) [0x0x7b25ce]
+	(No symbol) [0x0x7b34a4]
+	GetHandleVerifier [0x0xbe5ee3+2461619]
+	GetHandleVerifier [0x0xbe0f66+2441270]
+	GetHandleVerifier [0x0x9c6242+234258]
+	GetHandleVerifier [0x0x9b6208+168664]
+	GetHandleVerifier [0x0x9bd1ad+197245]
+	GetHandleVerifier [0x0x9a55f8+100040]
+	GetHandleVerifier [0x0x9a5792+100450]
+	GetHandleVerifier [0x0x98f74a+10266]
+	BaseThreadInitThunk [0x0x75f5fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77a182ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77a1827e+238]
+
+2025-09-13 23:19:58,597 - ERROR - Error al hacer click en ('CSS_SELECTOR', 'button.bg-blue-600.border-blue-600'): Message: element click intercepted: Element <button type="button" class="inline-flex items-center px-4 py-2 border shadow-sm text-sm font-medium rounded-md  bg-blue-600 hover:bg-blue-700 border-blue-600 text-white">...</button> is not clickable at point (1181, 498). Other element would receive the click: <div class="fixed inset-0 bg-gray-700 bg-opacity-75 flex justify-center items-center z-50" id="loading-overlay">...</div>
+  (Session info: chrome=140.0.7339.128)
+Stacktrace:
+	GetHandleVerifier [0x0x99d2a3+66419]
+	GetHandleVerifier [0x0x99d2e4+66484]
+	(No symbol) [0x0x774bd3]
+	(No symbol) [0x0x7c4e40]
+	(No symbol) [0x0x7c31a3]
+	(No symbol) [0x0x7c0c57]
+	(No symbol) [0x0x7bfedd]
+	(No symbol) [0x0x7b43c5]
+	(No symbol) [0x0x7e101c]
+	(No symbol) [0x0x7b3e24]
+	(No symbol) [0x0x7e11d4]
+	(No symbol) [0x0x8028a1]
+	(No symbol) [0x0x7e0e16]
+	(No symbol) [0x0x7b25ce]
+	(No symbol) [0x0x7b34a4]
+	GetHandleVerifier [0x0xbe5ee3+2461619]
+	GetHandleVerifier [0x0xbe0f66+2441270]
+	GetHandleVerifier [0x0x9c6242+234258]
+	GetHandleVerifier [0x0x9b6208+168664]
+	GetHandleVerifier [0x0x9bd1ad+197245]
+	GetHandleVerifier [0x0x9a55f8+100040]
+	GetHandleVerifier [0x0x9a5792+100450]
+	GetHandleVerifier [0x0x98f74a+10266]
+	BaseThreadInitThunk [0x0x75f5fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77a182ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77a1827e+238]
+
+2025-09-13 23:27:43,453 - INFO - Loguer activado.
+2025-09-13 23:27:43,455 - INFO - ====== WebDriver manager ======
+2025-09-13 23:27:46,285 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 23:27:46,379 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 23:27:46,483 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-13 23:27:47,531 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-13 23:28:30,714 - INFO - Loguer activado.
+2025-09-13 23:28:30,716 - INFO - ====== WebDriver manager ======
+2025-09-13 23:28:33,874 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 23:28:33,975 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 23:28:34,077 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-13 23:28:35,128 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-13 23:28:46,927 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-13 23:30:51,806 - INFO - Loguer activado.
+2025-09-13 23:30:51,808 - INFO - ====== WebDriver manager ======
+2025-09-13 23:30:54,636 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 23:30:54,722 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 23:30:54,827 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-13 23:30:55,833 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-13 23:31:15,156 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-13 23:38:04,048 - INFO - Loguer activado.
+2025-09-13 23:38:04,050 - INFO - ====== WebDriver manager ======
+2025-09-13 23:38:06,928 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 23:38:07,021 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-13 23:38:07,112 - INFO - Driver [C:\Users\Nacho\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-13 23:38:08,169 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/
+2025-09-13 23:38:21,411 - INFO - Abrir URL: https://desafiodataentryait.vercel.app/

@@ -1,0 +1,751 @@
+seccion,proveedor_id,proveedor,total_repuestos,sin_descripcion,repuesto_mas_caro_id,repuesto_mas_caro_codigo,repuesto_mas_caro_precio,marca,promedio_precio_marca
+proveedor,1,AutoPiezas Pro,11599.0,0.0,61173.0,ACX380  ,12646416.82,,
+marca,,,,,,,,1C,14715.08
+marca,,,,,,,,3C,4056.18
+marca,,,,,,,,A1,995500.39
+marca,,,,,,,,AA,119617.03
+marca,,,,,,,,AE,230417.77
+marca,,,,,,,,AI,15846.96
+marca,,,,,,,,AL,1033042.19
+marca,,,,,,,,AS,197655.2
+marca,,,,,,,,AU,5162452.34
+marca,,,,,,,,BA,251.16
+marca,,,,,,,,BD,97205.99
+marca,,,,,,,,BF,241635.07
+marca,,,,,,,,BK,11091.44
+marca,,,,,,,,BM,42942.64
+marca,,,,,,,,BS,158134.09
+marca,,,,,,,,BT,266205.58
+marca,,,,,,,,BV,24702.27
+marca,,,,,,,,BY,3951.98
+marca,,,,,,,,CA,23202.8
+marca,,,,,,,,CE,62482.44
+marca,,,,,,,,CG,2811299.06
+marca,,,,,,,,CH,1007207.4
+marca,,,,,,,,CI,1251825.75
+marca,,,,,,,,CK,268590.02
+marca,,,,,,,,CM,173138.78
+marca,,,,,,,,CO,71736.37
+marca,,,,,,,,CV,40776.21
+marca,,,,,,,,D1,60203.57
+marca,,,,,,,,D2,20786.74
+marca,,,,,,,,D3,21287.28
+marca,,,,,,,,D4,102280.94
+marca,,,,,,,,D5,188953.63
+marca,,,,,,,,D7,63720.25
+marca,,,,,,,,E1,16186.8
+marca,,,,,,,,E2,782993.94
+marca,,,,,,,,E3,1007944.4
+marca,,,,,,,,E4,601361.65
+marca,,,,,,,,E5,204199.42
+marca,,,,,,,,E9,2284.66
+marca,,,,,,,,EA,6511.53
+marca,,,,,,,,EB,5881.15
+marca,,,,,,,,EG,5015.99
+marca,,,,,,,,EK,53621.33
+marca,,,,,,,,EL,764.63
+marca,,,,,,,,ET,21166.24
+marca,,,,,,,,EU,16908.52
+marca,,,,,,,,FA,12788.73
+marca,,,,,,,,FB,64922.51
+marca,,,,,,,,FD,51522.22
+marca,,,,,,,,FH,13783.26
+marca,,,,,,,,FK,51645.9
+marca,,,,,,,,FM,66156.9
+marca,,,,,,,,FR,113743.93
+marca,,,,,,,,FV,11190.32
+marca,,,,,,,,H0,11532.84
+marca,,,,,,,,H2,7938.62
+marca,,,,,,,,H3,23014.01
+marca,,,,,,,,I1,135189.07
+marca,,,,,,,,I2,48323.74
+marca,,,,,,,,I3,16963.04
+marca,,,,,,,,IB,15145.01
+marca,,,,,,,,J1,106391.8
+marca,,,,,,,,JA,728.29
+marca,,,,,,,,JB,16548.44
+marca,,,,,,,,JI,73820.92
+marca,,,,,,,,JT,17001.21
+marca,,,,,,,,JV,96387.16
+marca,,,,,,,,KD,239631.81
+marca,,,,,,,,KF,670477.47
+marca,,,,,,,,KG,41571.69
+marca,,,,,,,,KI,197567.49
+marca,,,,,,,,KM,190563.27
+marca,,,,,,,,KP,329296.74
+marca,,,,,,,,KV,184522.04
+marca,,,,,,,,L2,1439852.27
+marca,,,,,,,,L3,330798.33
+marca,,,,,,,,LB,159953.86
+marca,,,,,,,,LK,458189.15
+marca,,,,,,,,LX,29417.65
+marca,,,,,,,,M0,94640.49
+marca,,,,,,,,M8,625624.01
+marca,,,,,,,,MB,46969.17
+marca,,,,,,,,MF,29778.3
+marca,,,,,,,,MH,100756.01
+marca,,,,,,,,MJ,37717.38
+marca,,,,,,,,MT,53671.29
+marca,,,,,,,,MU,103727.27
+marca,,,,,,,,NF,16074.4
+marca,,,,,,,,OF,198969.06
+marca,,,,,,,,P4,93714.88
+marca,,,,,,,,PC,94140.54
+marca,,,,,,,,PH,97452.94
+marca,,,,,,,,PK,160880.5
+marca,,,,,,,,PP,44298.63
+marca,,,,,,,,PR,56571.17
+marca,,,,,,,,Q1,2104951.75
+marca,,,,,,,,R0,102285.14
+marca,,,,,,,,RB,19037.29
+marca,,,,,,,,RC,60187.12
+marca,,,,,,,,RD,410508.81
+marca,,,,,,,,RF,167090.45
+marca,,,,,,,,RI,44403.0
+marca,,,,,,,,RM,2085.79
+marca,,,,,,,,RP,336738.07
+marca,,,,,,,,S7,148228.67
+marca,,,,,,,,S8,60608.8
+marca,,,,,,,,SA,126171.46
+marca,,,,,,,,SC,102571.5
+marca,,,,,,,,SD,149100.92
+marca,,,,,,,,SE,0.76
+marca,,,,,,,,SH,281312.58
+marca,,,,,,,,SK,59425.85
+marca,,,,,,,,SM,63990.0
+marca,,,,,,,,SN,64008.08
+marca,,,,,,,,SP,104259.57
+marca,,,,,,,,SR,13269.37
+marca,,,,,,,,T1,9900.37
+marca,,,,,,,,T2,76177.78
+marca,,,,,,,,T3,229820.38
+marca,,,,,,,,T4,102383.07
+marca,,,,,,,,T5,10840.93
+marca,,,,,,,,T6,23256.68
+marca,,,,,,,,T7,41538.58
+marca,,,,,,,,T9,1009485.52
+marca,,,,,,,,TB,21750.29
+marca,,,,,,,,TH,54652.02
+marca,,,,,,,,TI,91497.24
+marca,,,,,,,,TK,62868.25
+marca,,,,,,,,TR,19638.74
+marca,,,,,,,,TS,36736.35
+marca,,,,,,,,TT,41029.42
+marca,,,,,,,,U0,1290312.75
+marca,,,,,,,,U1,644917.73
+marca,,,,,,,,U2,840130.15
+marca,,,,,,,,U3,478550.18
+marca,,,,,,,,U4,42894.58
+marca,,,,,,,,U5,65938.71
+marca,,,,,,,,U6,227530.05
+marca,,,,,,,,U7,264814.78
+marca,,,,,,,,UM,95200.15
+marca,,,,,,,,VA,13272.18
+marca,,,,,,,,VR,33671.4
+marca,,,,,,,,W1,6963.28
+marca,,,,,,,,W2,118265.1
+marca,,,,,,,,W3,32183.15
+marca,,,,,,,,W4,117557.11
+marca,,,,,,,,W5,847766.81
+marca,,,,,,,,W8,147575.55
+marca,,,,,,,,WT,64427.34
+marca,,,,,,,,X1,24267.31
+,,,,,,,,,
+proveedor,2,MotorParts,1361.0,0.0,65542.0,998200-172,324283.0,,
+marca,,,,,,,,AXIALES,20713.03
+marca,,,,,,,,BIELETAS,12559.29
+marca,,,,,,,,TREN DELANTERO,51794.23
+marca,,,,,,,,VTH,37994.3
+,,,,,,,,,
+proveedor,3,TodoMotor,,,,,,,
+marca,,,,,,,,,
+,,,,,,,,,
+proveedor,4,AutoFix,45646.0,0.0,9115.0,508969              ,36994327.89,,
+marca,,,,,,,,CD,189434.15
+marca,,,,,,,,FO,139950.48
+marca,,,,,,,,J,815351.55
+marca,,,,,,,,PG,177891.9
+marca,,,,,,,,RN,119765.57
+marca,,,,,,,,TY,190989.94
+marca,,,,,,,,UN,148090.72
+marca,,,,,,,,VW,162095.59
+,,,,,,,,,
+proveedor,5,Rueda Mágica,11528.0,0.0,74043.0,ACX380  ,12646417.0,,
+marca,,,,,,,,1C,13659.27
+marca,,,,,,,,3C,4518.4
+marca,,,,,,,,A1,1984146.75
+marca,,,,,,,,AA,109701.99
+marca,,,,,,,,AE,189285.89
+marca,,,,,,,,AI,14972.4
+marca,,,,,,,,AL,1176169.38
+marca,,,,,,,,AS,184975.29
+marca,,,,,,,,AU,5029405.2
+marca,,,,,,,,BA,571.0
+marca,,,,,,,,BD,154668.6
+marca,,,,,,,,BF,223364.93
+marca,,,,,,,,BK,11094.31
+marca,,,,,,,,BM,34990.2
+marca,,,,,,,,BS,163901.4
+marca,,,,,,,,BT,287502.87
+marca,,,,,,,,BV,25700.93
+marca,,,,,,,,BY,4193.83
+marca,,,,,,,,CA,22564.44
+marca,,,,,,,,CE,53593.98
+marca,,,,,,,,CG,2913006.47
+marca,,,,,,,,CH,1049941.44
+marca,,,,,,,,CI,816290.5
+marca,,,,,,,,CK,341003.33
+marca,,,,,,,,CM,175277.39
+marca,,,,,,,,CO,63377.39
+marca,,,,,,,,CV,38577.25
+marca,,,,,,,,D1,54389.43
+marca,,,,,,,,D2,20346.88
+marca,,,,,,,,D3,21251.72
+marca,,,,,,,,D4,92950.76
+marca,,,,,,,,D5,184983.76
+marca,,,,,,,,D7,58154.62
+marca,,,,,,,,E1,16710.18
+marca,,,,,,,,E2,628270.61
+marca,,,,,,,,E3,1014215.24
+marca,,,,,,,,E4,712164.73
+marca,,,,,,,,E5,204274.67
+marca,,,,,,,,E9,2382.39
+marca,,,,,,,,EA,6594.66
+marca,,,,,,,,EB,5859.75
+marca,,,,,,,,EG,5043.2
+marca,,,,,,,,EK,54494.73
+marca,,,,,,,,EL,708.31
+marca,,,,,,,,ET,22058.6
+marca,,,,,,,,EU,16000.81
+marca,,,,,,,,FA,11696.63
+marca,,,,,,,,FB,57172.38
+marca,,,,,,,,FD,46632.0
+marca,,,,,,,,FH,13061.92
+marca,,,,,,,,FK,47903.75
+marca,,,,,,,,FM,58913.43
+marca,,,,,,,,FR,108119.06
+marca,,,,,,,,FV,12634.41
+marca,,,,,,,,H0,13519.88
+marca,,,,,,,,H2,8112.67
+marca,,,,,,,,H3,18959.11
+marca,,,,,,,,I1,64381.31
+marca,,,,,,,,I2,45799.33
+marca,,,,,,,,I3,13996.8
+marca,,,,,,,,IB,15494.22
+marca,,,,,,,,J1,112008.3
+marca,,,,,,,,JB,9502.69
+marca,,,,,,,,JI,69731.35
+marca,,,,,,,,JT,15914.92
+marca,,,,,,,,JV,87823.79
+marca,,,,,,,,KD,135907.2
+marca,,,,,,,,KF,403930.91
+marca,,,,,,,,KG,39076.34
+marca,,,,,,,,KI,192227.28
+marca,,,,,,,,KM,201083.59
+marca,,,,,,,,KP,331542.0
+marca,,,,,,,,KV,185107.51
+marca,,,,,,,,L2,1585921.71
+marca,,,,,,,,L3,329282.81
+marca,,,,,,,,LB,157277.0
+marca,,,,,,,,LK,475559.6
+marca,,,,,,,,LX,17905.93
+marca,,,,,,,,M0,89801.2
+marca,,,,,,,,M8,665657.83
+marca,,,,,,,,MB,45770.37
+marca,,,,,,,,MF,27400.87
+marca,,,,,,,,MH,99136.86
+marca,,,,,,,,MJ,32368.43
+marca,,,,,,,,MT,47424.44
+marca,,,,,,,,MU,107819.8
+marca,,,,,,,,NF,18194.55
+marca,,,,,,,,OF,126661.17
+marca,,,,,,,,P4,99592.05
+marca,,,,,,,,PC,89970.56
+marca,,,,,,,,PK,123603.25
+marca,,,,,,,,PP,43756.06
+marca,,,,,,,,PR,58658.46
+marca,,,,,,,,Q1,3776726.25
+marca,,,,,,,,R0,102768.2
+marca,,,,,,,,RB,14233.33
+marca,,,,,,,,RC,45402.89
+marca,,,,,,,,RD,392390.0
+marca,,,,,,,,RF,173841.37
+marca,,,,,,,,RI,47546.37
+marca,,,,,,,,RM,3134.83
+marca,,,,,,,,RP,320393.76
+marca,,,,,,,,S7,180168.91
+marca,,,,,,,,S8,39492.16
+marca,,,,,,,,SA,100466.91
+marca,,,,,,,,SC,78894.37
+marca,,,,,,,,SD,161108.93
+marca,,,,,,,,SE,1.0
+marca,,,,,,,,SH,289554.29
+marca,,,,,,,,SK,63835.42
+marca,,,,,,,,SM,57767.17
+marca,,,,,,,,SN,51241.98
+marca,,,,,,,,SP,97511.97
+marca,,,,,,,,SR,13758.62
+marca,,,,,,,,T2,67525.66
+marca,,,,,,,,T3,195140.53
+marca,,,,,,,,T4,87769.76
+marca,,,,,,,,T5,11549.18
+marca,,,,,,,,T6,26430.33
+marca,,,,,,,,T7,36664.16
+marca,,,,,,,,T9,901648.78
+marca,,,,,,,,TA,19754.0
+marca,,,,,,,,TB,19897.67
+marca,,,,,,,,TH,46460.76
+marca,,,,,,,,TI,84463.67
+marca,,,,,,,,TK,55736.1
+marca,,,,,,,,TR,18871.49
+marca,,,,,,,,TS,38369.47
+marca,,,,,,,,TT,41717.12
+marca,,,,,,,,U0,1244080.69
+marca,,,,,,,,U1,730217.79
+marca,,,,,,,,U2,843487.46
+marca,,,,,,,,U3,449021.7
+marca,,,,,,,,U4,38285.01
+marca,,,,,,,,U5,78378.63
+marca,,,,,,,,U6,238929.05
+marca,,,,,,,,U7,282072.75
+marca,,,,,,,,UM,86533.37
+marca,,,,,,,,VA,13158.87
+marca,,,,,,,,VR,34862.11
+marca,,,,,,,,W1,5832.5
+marca,,,,,,,,W2,116963.02
+marca,,,,,,,,W3,33074.25
+marca,,,,,,,,W4,107637.9
+marca,,,,,,,,W5,878247.33
+marca,,,,,,,,W8,94962.2
+marca,,,,,,,,WT,58780.8
+marca,,,,,,,,X1,24341.08
+,,,,,,,,,
+proveedor,6,Automax,,,,,,,
+marca,,,,,,,,,
+,,,,,,,,,
+proveedor,7,BS,,,,,,,
+marca,,,,,,,,,
+,,,,,,,,,
+proveedor,8,Prisma Autopartes,6312.0,0.0,82171.0,MIR900,751325.0,,
+marca,,,,,,,,3M,0.0
+marca,,,,,,,,ARTELEC,1373.36
+marca,,,,,,,,AUTOLUBE,1703.86
+marca,,,,,,,,AUTOTEMP,21.5
+marca,,,,,,,,BERU,19149.0
+marca,,,,,,,,BLUE STREAK,14665.18
+marca,,,,,,,,BRAMA,6269.34
+marca,,,,,,,,CA,20838.0
+marca,,,,,,,,CARDAL,77.0
+marca,,,,,,,,CARVIC,5850.08
+marca,,,,,,,,CASEROS,27678.58
+marca,,,,,,,,CGZ,14349.69
+marca,,,,,,,,CHAMPION,8642.36
+marca,,,,,,,,CHEFREN,20301.24
+marca,,,,,,,,DAEMA,19119.0
+marca,,,,,,,,DAMIANI,156.79
+marca,,,,,,,,DIVAIO,26015.82
+marca,,,,,,,,DODUCO,8475.6
+marca,,,,,,,,DOG,56309.91
+marca,,,,,,,,DURER,3484.95
+marca,,,,,,,,DZE,30417.67
+marca,,,,,,,,EB,4233.0
+marca,,,,,,,,EKTION,9801.4
+marca,,,,,,,,ELE ESE,110032.42
+marca,,,,,,,,ELEXA,0.0
+marca,,,,,,,,EP/ALFA,45115.86
+marca,,,,,,,,ERALSA,64006.46
+marca,,,,,,,,ESTRUPLAS,3727.93
+marca,,,,,,,,EXE,1044.78
+marca,,,,,,,,EXELITE,6404.86
+marca,,,,,,,,EXIMETAL,42575.0
+marca,,,,,,,,FAP,25345.57
+marca,,,,,,,,FAROLITO,363.59
+marca,,,,,,,,FAT,63.8
+marca,,,,,,,,FELKO,25322.68
+marca,,,,,,,,FLOD,11140.0
+marca,,,,,,,,FLORIO,11921.33
+marca,,,,,,,,G,327.77
+marca,,,,,,,,GALLUZZO,47.28
+marca,,,,,,,,GAREF,74517.37
+marca,,,,,,,,GASOLINE,3490.0
+marca,,,,,,,,GDT,3708.73
+marca,,,,,,,,GEA,25088.29
+marca,,,,,,,,GEN ROD,1916.76
+marca,,,,,,,,GENY,14941.6
+marca,,,,,,,,GG,21149.9
+marca,,,,,,,,GV,17127.41
+marca,,,,,,,,GW,55.5
+marca,,,,,,,,HDS,32272.85
+marca,,,,,,,,HELLA/DIVAI,21344.0
+marca,,,,,,,,HIT,18777.63
+marca,,,,,,,,IAEL,18735.9
+marca,,,,,,,,IMPUL-ARG,37136.86
+marca,,,,,,,,INDUCARS,28649.12
+marca,,,,,,,,INDULOCK,52609.27
+marca,,,,,,,,IP,3316.6
+marca,,,,,,,,JR,37044.36
+marca,,,,,,,,KESSEL,29166.43
+marca,,,,,,,,KOBLA,67187.44
+marca,,,,,,,,KOBO,10470.7
+marca,,,,,,,,KUBE,18024.0
+marca,,,,,,,,L.A.M,65284.08
+marca,,,,,,,,LCA,32519.87
+marca,,,,,,,,LCU,36458.96
+marca,,,,,,,,LUX LED,39103.77
+marca,,,,,,,,M.MARELLI,29384.32
+marca,,,,,,,,MAGAR,128.5
+marca,,,,,,,,MALLORY,86874.45
+marca,,,,,,,,MASTERFILT,21163.93
+marca,,,,,,,,MAXIBLACK,8563.2
+marca,,,,,,,,MAZ-FREN,37263.41
+marca,,,,,,,,MB,14444.7
+marca,,,,,,,,MC,29028.27
+marca,,,,,,,,METALFILT,2439.56
+marca,,,,,,,,METALIVIA,30350.28
+marca,,,,,,,,MH,4401.44
+marca,,,,,,,,MINI GC6,16823.4
+marca,,,,,,,,MIRBA,17233.25
+marca,,,,,,,,MOBILETRON,0.0
+marca,,,,,,,,MOHER,10453.59
+marca,,,,,,,,MOSS,3357.4
+marca,,,,,,,,NAP,8957.02
+marca,,,,,,,,NARVA,378.88
+marca,,,,,,,,NEW PANEL,1443.06
+marca,,,,,,,,NEWFILT,1156.45
+marca,,,,,,,,NGK,78771.6
+marca,,,,,,,,NQD,17003.4
+marca,,,,,,,,NSP,186.0
+marca,,,,,,,,OREGON,22101.63
+marca,,,,,,,,ORLAN ROBER,54947.35
+marca,,,,,,,,ORO,58338.89
+marca,,,,,,,,OSO,21609.0
+marca,,,,,,,,PERFECTO,1300.44
+marca,,,,,,,,PISCAR,382.2
+marca,,,,,,,,PLASTITREBOL,1349.06
+marca,,,,,,,,PLUS ULTRA,1118.03
+marca,,,,,,,,PRESCO,11822.0
+marca,,,,,,,,R,23618.71
+marca,,,,,,,,RALLY,34827.67
+marca,,,,,,,,RALUX,22513.46
+marca,,,,,,,,REIMOTOR,14004.6
+marca,,,,,,,,RGU,10539.0
+marca,,,,,,,,RO-FIL,59318.98
+marca,,,,,,,,ROFIL,27672.25
+marca,,,,,,,,RON-BAY,2074.75
+marca,,,,,,,,ROTOFRANCE,54172.38
+marca,,,,,,,,RT,1986.62
+marca,,,,,,,,RTM,23256.69
+marca,,,,,,,,SM,1720.67
+marca,,,,,,,,SPACO,29179.0
+marca,,,,,,,,TACSA,623.33
+marca,,,,,,,,TAILLOT,37916.42
+marca,,,,,,,,TECA,9726.75
+marca,,,,,,,,TORMOTRIZ,9581.0
+marca,,,,,,,,TRICO,15314.8
+marca,,,,,,,,VALTHIA,4548.43
+marca,,,,,,,,VARGA,14354.0
+marca,,,,,,,,VERKEHR,19681.33
+marca,,,,,,,,VINI-LITE,6736.5
+marca,,,,,,,,WEGA,6507.67
+marca,,,,,,,,X9-BAUD MOL,6001.39
+marca,,,,,,,,X9-BAUD-MOL,3137.5
+marca,,,,,,,,ZEN,28312.88
+marca,,,,,,,,nan,29969.45
+,,,,,,,,,
+proveedor,9,AutoRepuestos Express,15648.0,0.0,47575.0,7EM1123,1115542.49,,
+marca,,,,,,,,BENDIX,34090.9
+marca,,,,,,,,BUFFALO,4851.12
+marca,,,,,,,,CONTINENTAL CON,24973.33
+marca,,,,,,,,COOPER,21471.66
+marca,,,,,,,,CORVEN,91025.99
+marca,,,,,,,,C`J,51343.38
+marca,,,,,,,,DAYCO,53812.81
+marca,,,,,,,,DAYCO DR,6806.17
+marca,,,,,,,,DENSO,68433.06
+marca,,,,,,,,FAP,24028.48
+marca,,,,,,,,FGH,21686.34
+marca,,,,,,,,FLEXO,19834.89
+marca,,,,,,,,FLORIO,16201.3
+marca,,,,,,,,FREHA,5712.02
+marca,,,,,,,,FRI-MA,18682.71
+marca,,,,,,,,GENY,6773.17
+marca,,,,,,,,GESPANNT,49668.96
+marca,,,,,,,,GOODYEAR,14872.72
+marca,,,,,,,,HIPPER FREIOS,63888.07
+marca,,,,,,,,ICSA,11499.32
+marca,,,,,,,,JAP,21853.02
+marca,,,,,,,,JURID,41739.43
+marca,,,,,,,,KESSEL,13104.25
+marca,,,,,,,,KUGELLAGER,46002.45
+marca,,,,,,,,LENA,28748.31
+marca,,,,,,,,LITTON,25913.32
+marca,,,,,,,,LOCKHART,5555.04
+marca,,,,,,,,MASTERFILT,18554.82
+marca,,,,,,,,MH,10680.12
+marca,,,,,,,,MOPAR,13185.59
+marca,,,,,,,,MTA,22529.8
+marca,,,,,,,,OMER,54050.3
+marca,,,,,,,,PROBRAKE,19156.52
+marca,,,,,,,,RAMO,9259.67
+marca,,,,,,,,RENO,4052.52
+marca,,,,,,,,SADAR,68934.73
+marca,,,,,,,,SKF,97759.77
+marca,,,,,,,,STABILUS,26809.87
+marca,,,,,,,,TRAXION,75308.96
+,,,,,,,,,
+proveedor,10,Bravo Repuestos,405.0,0.0,84054.0,47/48             ,99655.0,,
+marca,,,,,,,,BAIML,18862.76
+marca,,,,,,,,COELPLA,2953.65
+marca,,,,,,,,CYLGEM,44310.5
+marca,,,,,,,,METALGRAB,1313.0
+marca,,,,,,,,SOLUTRONIC,10755.03
+marca,,,,,,,,TRILER,18991.82
+,,,,,,,,,
+proveedor,11,Calle 51,,,,,,,
+marca,,,,,,,,,
+,,,,,,,,,
+proveedor,12,Kilómetro 100,13855.0,0.0,96653.0,SP00000163,29279208.43,,
+marca,,,,,,,,3M,41671.05
+marca,,,,,,,,Adventure Termos,36493.74
+marca,,,,,,,,Autopolish,5624.18
+marca,,,,,,,,Bahco,96960.27
+marca,,,,,,,,Bosch Accesorios,25249.48
+marca,,,,,,,,Bosch Accesorios Línea Expert,24327.41
+marca,,,,,,,,Bosch Autopartes,70975.75
+marca,,,,,,,,Bosch Diesel,121112.11
+marca,,,,,,,,Bosch Equipamiento,1913347.51
+marca,,,,,,,,Bosch Herramientas,420088.1
+marca,,,,,,,,Bosch Medición,267868.14
+marca,,,,,,,,CMD,19742.37
+marca,,,,,,,,Calorstat,24534.43
+marca,,,,,,,,Candados 505,17790.23
+marca,,,,,,,,Cofap,82781.59
+marca,,,,,,,,Conarco,106272.54
+marca,,,,,,,,Controil,415029.21
+marca,,,,,,,,Doble A,4080.3
+marca,,,,,,,,Dolz,104496.56
+marca,,,,,,,,Dremel,24331.11
+marca,,,,,,,,Driven,24442.94
+marca,,,,,,,,Durbloc,35766.03
+marca,,,,,,,,Einhell,209129.28
+marca,,,,,,,,Energizer,10458.45
+marca,,,,,,,,Esab,1044835.98
+marca,,,,,,,,Escaleras Black + Decker,94531.91
+marca,,,,,,,,Escaleras Stanley,163317.7
+marca,,,,,,,,Ezeta,15843.23
+marca,,,,,,,,Fischer,15983.32
+marca,,,,,,,,Frasle,80006.92
+marca,,,,,,,,Fremax,103129.59
+marca,,,,,,,,Freplast,38590.13
+marca,,,,,,,,Gulf,331866.95
+marca,,,,,,,,Hescher,19085.07
+marca,,,,,,,,Häfele,4253.79
+marca,,,,,,,,Irimo,40483.64
+marca,,,,,,,,KOBLA,44597.57
+marca,,,,,,,,KWB Accesorios,18710.78
+marca,,,,,,,,Karcher,472176.0
+marca,,,,,,,,Ledvance,27444.93
+marca,,,,,,,,Litens,361676.23
+marca,,,,,,,,Loctite,138796.22
+marca,,,,,,,,MH Conductores Eléctricos,175703.72
+marca,,,,,,,,Mahle,39251.43
+marca,,,,,,,,Mahle Baterías,199029.87
+marca,,,,,,,,Mahle Equipamiento,4014399.62
+marca,,,,,,,,Mahle Filtros,22086.5
+marca,,,,,,,,Master,148308.59
+marca,,,,,,,,Michelin,427953.29
+marca,,,,,,,,Motos,23884.92
+marca,,,,,,,,Nakata,63766.8
+marca,,,,,,,,PERFECTO,9308.65
+marca,,,,,,,,Penetrit,6182.4
+marca,,,,,,,,Philips Automotive,35949.11
+marca,,,,,,,,Philips Home,25789.06
+marca,,,,,,,,Pitts,12344.82
+marca,,,,,,,,Plas Chamois,15694.25
+marca,,,,,,,,Rayovac,12792.43
+marca,,,,,,,,Recumix,6207.32
+marca,,,,,,,,STP Aditivos,9131.59
+marca,,,,,,,,Schneider Electric,38699.21
+marca,,,,,,,,Sica,13361.4
+marca,,,,,,,,Skil,121407.26
+marca,,,,,,,,Stanley,21584.44
+marca,,,,,,,,Stanley Aspiradoras,77949.27
+marca,,,,,,,,Stanley Cajas para Herramientas,72605.23
+marca,,,,,,,,Stanley Compresores,257911.74
+marca,,,,,,,,Stanley Compresores ,312175.48
+marca,,,,,,,,Stanley Termos,72651.65
+marca,,,,,,,,Steck,17781.05
+marca,,,,,,,,Valvoline,264109.54
+marca,,,,,,,,WD 40,218488.92
+,,,,,,,,,
+proveedor,13,Mundo RepCar,26353.0,0.0,128892.0,12429M,20471387.0,,
+marca,,,,,,,,1441,50669.99
+marca,,,,,,,,3M**(434),1552.0
+marca,,,,,,,,AC DELCO (059)**,39384.33
+marca,,,,,,,,AF*,12417.55
+marca,,,,,,,,ALUMINIO,49058.78
+marca,,,,,,,,AMT**(050),84405.39
+marca,,,,,,,,ANAEROBICOS**(050),17255.83
+marca,,,,,,,,AUTOLUBE (617),1799.97
+marca,,,,,,,,AY,136205.5
+marca,,,,,,,,BAIMIL (595),19865.98
+marca,,,,,,,,BARI (617),11204.16
+marca,,,,,,,,BOBINAS  (617),56947.57
+marca,,,,,,,,BOSCH (617),23974.13
+marca,,,,,,,,BRAMA(617),3060.25
+marca,,,,,,,,BTE*(528),30377.22
+marca,,,,,,,,BTS **,67269.5
+marca,,,,,,,,C-LED,379.0
+marca,,,,,,,,CADENAS DE NIEVE,53347.86
+marca,,,,,,,,CADIC ** (595),50098.56
+marca,,,,,,,,CARESA,220277.12
+marca,,,,,,,,CARLITOS,70499.0
+marca,,,,,,,,CASEROS (101),36123.93
+marca,,,,,,,,CHAMPION**(416),10144.78
+marca,,,,,,,,CLICK**,4234.27
+marca,,,,,,,,CMB**(528),33854.48
+marca,,,,,,,,CMD,22603.52
+marca,,,,,,,,CONTINENTAL**(050),40257.53
+marca,,,,,,,,CORAM**(528),37116.03
+marca,,,,,,,,CRISTAL (504),14859.41
+marca,,,,,,,,DAEMA* S.A,34156.75
+marca,,,,,,,,DAYCO INDUSTRIAL**,23202.48
+marca,,,,,,,,DAYCO RODAMIENTOS**,98234.15
+marca,,,,,,,,DAYCO**,86805.89
+marca,,,,,,,,DINAHCOM,11284.57
+marca,,,,,,,,DIPRA**,61301.14
+marca,,,,,,,,DISTRIBUIDORES(617),137186.92
+marca,,,,,,,,DIVAIO*(417),25697.03
+marca,,,,,,,,DODUCO AZUL(617),4480.58
+marca,,,,,,,,DOG (434),43234.61
+marca,,,,,,,,DOLAR,581371.41
+marca,,,,,,,,DPI**(528),25857.04
+marca,,,,,,,,DUCK,29172.25
+marca,,,,,,,,DURER(617),3927.65
+marca,,,,,,,,DZ**(595),14769.29
+marca,,,,,,,,DZE**,24769.77
+marca,,,,,,,,EFR**,153467.89
+marca,,,,,,,,EFR** (595),14350.14
+marca,,,,,,,,EL TALA*,2344.07
+marca,,,,,,,,ELECTRICIDAD EFR**,21921.78
+marca,,,,,,,,ELOD,9345.79
+marca,,,,,,,,ENERGY(056),6051.8
+marca,,,,,,,,EU**,25344.12
+marca,,,,,,,,FACORSA**,378334.51
+marca,,,,,,,,FAG**(528),100732.74
+marca,,,,,,,,FAP,8432.49
+marca,,,,,,,,FILTROS DE AIRE CON,11767.42
+marca,,,,,,,,FLENNOR**,1196039.98
+marca,,,,,,,,FLETE,1870.0
+marca,,,,,,,,FLORIO**(050),23377.56
+marca,,,,,,,,FORD ORIGINAL**,8576.33
+marca,,,,,,,,FREHA*(050),5453.73
+marca,,,,,,,,FREMAX**(528),49708.36
+marca,,,,,,,,FREPLAST*(050),1084.11
+marca,,,,,,,,GD**,19948.74
+marca,,,,,,,,GENOUD**,42733.54
+marca,,,,,,,,GENOUD**(085),5713.79
+marca,,,,,,,,GENY*,10573.44
+marca,,,,,,,,GESPANNT**(050),72921.59
+marca,,,,,,,,GKG POLEAS Y TENSORE,43967.84
+marca,,,,,,,,GM**,7378.36
+marca,,,,,,,,GTC**(528),37460.02
+marca,,,,,,,,GV**,11177.73
+marca,,,,,,,,HELLUX,77643.84
+marca,,,,,,,,HESCHER (354),49092.64
+marca,,,,,,,,HOSHI**(274),44973.45
+marca,,,,,,,,HUTCHINSON (050)**,25878.46
+marca,,,,,,,,Hescher,13523.5
+marca,,,,,,,,IAEL **,20205.23
+marca,,,,,,,,IMP**(528),35602.08
+marca,,,,,,,,INDIEL (617),18874.68
+marca,,,,,,,,INTERRUP,0.0
+marca,,,,,,,,IRON KIT LED (434),85205.75
+marca,,,,,,,,JAPSA,12917.12
+marca,,,,,,,,JR,14843.49
+marca,,,,,,,,KALEKIN (617),12383.88
+marca,,,,,,,,KBF**(528),16727.24
+marca,,,,,,,,KIT DE LED** (617),51632.92
+marca,,,,,,,,KOBLA (504),68652.51
+marca,,,,,,,,KOBO* (417),13223.41
+marca,,,,,,,,KOSTAL,10739.62
+marca,,,,,,,,KUBE*(417),7447.13
+marca,,,,,,,,LCU REGULADORES (617,29821.33
+marca,,,,,,,,LCU(617),42014.52
+marca,,,,,,,,LEDS*(417),17879.24
+marca,,,,,,,,LINZI (617),2230.76
+marca,,,,,,,,LOCKHART** (050),47663.56
+marca,,,,,,,,MAHLE** (059),34348.16
+marca,,,,,,,,MASTERFILT*(050),18044.52
+marca,,,,,,,,MAZAS DE RUEDA,53885.14
+marca,,,,,,,,MAZFREN (617),41687.73
+marca,,,,,,,,MB*,17046.72
+marca,,,,,,,,METALIVIA,21285.91
+marca,,,,,,,,MH*(050),12088.39
+marca,,,,,,,,MICHELIN**(050),39685.69
+marca,,,,,,,,MIRBA (101),23808.58
+marca,,,,,,,,MOHER*,10491.59
+marca,,,,,,,,MU,177.0
+marca,,,,,,,,NAGARES (617),8496.74
+marca,,,,,,,,NGK BUJIA**,28637.78
+marca,,,,,,,,NGK CABLES**,127261.38
+marca,,,,,,,,NOSSO**,91824.97
+marca,,,,,,,,NQD*(434),212395.7
+marca,,,,,,,,NSK**(528),226356.0
+marca,,,,,,,,NTN**(528),72340.65
+marca,,,,,,,,OMER*(050),86892.49
+marca,,,,,,,,OPTIBEL**(050),37576.2
+marca,,,,,,,,OREGON*(434),9636.88
+marca,,,,,,,,ORLAN ROBER**,41882.4
+marca,,,,,,,,ORO*,27986.69
+marca,,,,,,,,OSFRANCOR,23739.51
+marca,,,,,,,,OSRAM (135)**,45777.62
+marca,,,,,,,,OYSTER*(444),25794.43
+marca,,,,,,,,PECA **(396),178155.25
+marca,,,,,,,,QKL**,9156.31
+marca,,,,,,,,RA,44461.94
+marca,,,,,,,,RA (617),13630.46
+marca,,,,,,,,RALUX (101),23236.83
+marca,,,,,,,,REGITAR* (434),24925.12
+marca,,,,,,,,REIMOTOR*,6413.91
+marca,,,,,,,,RO-FIL,22530.06
+marca,,,,,,,,ROHER,10260.41
+marca,,,,,,,,RON BAY,19321.19
+marca,,,,,,,,ROYALTEK**,70488.72
+marca,,,,,,,,RTM (595),11395.4
+marca,,,,,,,,S,11466.4
+marca,,,,,,,,SCHADEK BOMBAS DE AG,133232.72
+marca,,,,,,,,STARYEN**,14664.93
+marca,,,,,,,,SUNTEX**(595),29937.77
+marca,,,,,,,,SWB**(528),47841.23
+marca,,,,,,,,TAILLÓT (617),29095.37
+marca,,,,,,,,TCH**(062),10785.95
+marca,,,,,,,,TIMKEN**(528),126985.43
+marca,,,,,,,,TOR MAX*,49385.52
+marca,,,,,,,,TORMOTRIZ (394),548.43
+marca,,,,,,,,TORMOTRIZ*,0.0
+marca,,,,,,,,TR**,17772.15
+marca,,,,,,,,TRAXION(529),102600.44
+marca,,,,,,,,TRIBUNO*,36977.56
+marca,,,,,,,,TRICO**,39624.88
+marca,,,,,,,,UNIFAP**(595),29996.64
+marca,,,,,,,,UNIONES PLASTICAS**,3671.78
+marca,,,,,,,,VERKHER*(417),73132.85
+marca,,,,,,,,VEYPA (135)**,29185.9
+marca,,,,,,,,VILA POLEAS,36042.47
+marca,,,,,,,,VMG*,188204.17
+marca,,,,,,,,VO**,148867.08
+marca,,,,,,,,W**,36055.85
+marca,,,,,,,,WEGA**(617),8982.17
+marca,,,,,,,,WJH**(528),14070.72
+marca,,,,,,,,X9 CABLES**(023),270753.02
+marca,,,,,,,,X9-TERMINALES**,18630.66
+marca,,,,,,,,XENON (434),6657.26
+marca,,,,,,,,YACO**,12447.51
+marca,,,,,,,,ZEN**,58216.34
+marca,,,,,,,,ZM ** (438),224826.35
+marca,,,,,,,,ZUNBLEY**,0.0
+,,,,,,,,,
+proveedor,14,El Rincón del Rep,,,,,,,
+marca,,,,,,,,,
+,,,,,,,,,
